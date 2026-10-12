@@ -1,6 +1,6 @@
 # Awesome Music Hardware Hacks
 
-A curated list of custom firmware, software mods, tools and research for music hardware.
+A curated list of custom firmware, software mods, tools and research for music hardware. For physical mods and add-ons, see [Awesome Music Hardware Mods](https://github.com/Lapin/awesome-music-hardware-mods).
 
 ## Contents
 
@@ -374,6 +374,7 @@ A curated list of custom firmware, software mods, tools and research for music h
 
 ## Related lists
 
+- [Awesome Music Hardware Mods](https://github.com/Lapin/awesome-music-hardware-mods) - Physical mods, add-ons and circuit bending.
 - [awesome-te](https://github.com/bnjreece/awesome-te) - Teenage Engineering hacks and tools.
 - [awesome-m8](https://github.com/v3rm0n/awesome-m8) - M8 headless clients, builds and tools.
 - [eurorack-awesome](https://github.com/newdigate/eurorack-awesome) - Eurorack resources.
