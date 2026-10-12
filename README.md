@@ -330,6 +330,7 @@ A curated list of custom firmware, software mods, tools and research for music h
 
 ### OP-1 and OP-1 Field
 
+- [op1r](https://github.com/pcppcp/op1r) - Browser patcher for the original OP-1: new synths, effects, a quad LFO, Euclidean sequencer, MIDI CC and scale mode.
 - [op1repacker](https://github.com/op1hacks/op1repacker) - Unpack, mod and repack firmware, with ready-made mods.
 - [op1REpackerGUI](https://github.com/epixjava/op1REpackerGUI) - GUI for op1repacker.
 - [op1-glitter](https://github.com/Nanobot567/op1-glitter) - Custom colour themes.
