@@ -335,6 +335,13 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### SMK-37
 
 - [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
+- [SMK-37 firmwares](https://genkigenki.github.io/smk37/) - Browser installer for the SMK-37 ports below, and the way back to the stock firmware.
+- [Makkuro37](https://github.com/genkigenki/Makkuro37) - Microtonal drone synth.
+- [Snoop37](https://github.com/genkigenki/Snoop37) - SLOOP port: four-track live groovebox.
+- [X0X37](https://github.com/genkigenki/X0X37) - X0X port: 909, 808 and two 303s.
+- [FoMni37](https://github.com/genkigenki/FoMni37) - FoMni port: Omnichord-style chord harp.
+- [MAKU37](https://github.com/genkigenki/MAKU37) - MAKU port: always-on ambience machine.
+- [fm1-to-smk37](https://genkigenki.github.io/smk37/kit.html) - Guide and tools to port FM-1 firmwares to the SMK-37.
 
 ## Mutable Instruments
 
