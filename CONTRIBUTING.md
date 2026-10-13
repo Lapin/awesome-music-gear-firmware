@@ -14,7 +14,8 @@ Pull requests that add, fix or remove entries are welcome.
 
 ## Rules
 
-- Links only. Do not add or link firmware images, OS dumps, ROMs or built mod files. Link to the project page.
-- Projects whose repo or releases contain manufacturer firmware are not listed.
+- Links only. Link to the project page, not straight to firmware images, OS dumps, ROMs or built mod files.
+- Community firmware hacks are welcome, including ones built on modified manufacturer firmware. Archives or mirrors of unmodified manufacturer firmware are not listed.
+- Add `(external)` after links that go outside GitHub: `- [Name](link) (external) - Short description.`
 - Open the link and check it yourself before adding it.
 - No preset packs or plain converters unless they do something unusual.

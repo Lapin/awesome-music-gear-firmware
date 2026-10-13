@@ -172,7 +172,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [microfreak-reverse](https://github.com/francoisgeorgy/microfreak-reverse) - SysEx reverse engineering notes.
 - [managefreak](https://github.com/GiovanniBitbyBit/managefreak) - Preset manager.
 - [minifreak_sample_conv](https://github.com/mtizim/minifreak_sample_conv) - Load your own samples on the MiniFreak.
-- [SuperFreaker](https://freakierfirmware.com/microfreak/) - Patcher that adds effects, controls and shortcuts to your own firmware.
+- [SuperFreaker](https://freakierfirmware.com/microfreak/) (external) - Patcher that adds effects, controls and shortcuts to your own firmware.
 - [freakpatch](https://github.com/ThisFreakDoesntExist/ThisFirmwareDoesNotExist) - Patch your own MicroFreak update file, with firmware notes.
 
 ## Behringer
@@ -307,6 +307,9 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### Volca
 
+- [hj Firmware](https://github.com/hj-oja/vdcf) - Trig conditions, ghost notes, longer swing and bug fixes for the Volca Drum. Modified Korg 1.14.
+- [Pajen Volca FM firmware](https://drolez.com/blog/music/korg-volca-fm-firmware-update.php) (external) - MIDI velocity, SysEx patch transfer, program changes and LFO fixes. Modified Korg firmware, 1.09.
+- [Pajen Volca Sample firmware](https://ranzee.com/volca-sample-unofficial-firmware/) (external) - Polyphony, probability, chromatic play and extra reverbs. Modified Korg firmware, Beta 7.
 - [BEATROOTS](https://github.com/pauloricca/beatroots) - Turns the Volca Beats PCM parts into four synth voices.
 - [volcasample](https://github.com/korginc/volcasample) - Official SDK for sending samples to the Volca Sample.
 - [volcafmpatchdecoder](https://github.com/pajen/volcafmpatchdecoder) - Convert Volca FM patch audio to SysEx.
@@ -318,15 +321,15 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## M-VAVE
 
-- [FM-1 firmware catalog](https://fm1-editor.com/firmware/) - Catalog of custom FM-1 firmwares, with installers and emulators.
+- [FM-1 firmware catalog](https://fm1-editor.com/firmware/) (external) - Catalog of custom FM-1 firmwares, with installers and emulators.
 
 ### FM-1
 
 - [Felucca](https://github.com/hugelton/Felucca) - Multi-engine synth firmware, and the base for many others.
 - [JIANT FM](https://github.com/juanjiant-bit/JIANT) - Felucca fork for live play and whole songs, with a browser emulator and installer.
 - [SLOOP](https://github.com/isod89/sloop-fm1) - Four-track live groovebox.
-- [Baud Girl FM-1+VA](https://baudgirl.com/work/FM-1+VA) - Virtual analog engine with four knobs on every screen.
-- [Groove OS](https://www.groove-os.com/) - Eight-track groovebox with effects on every track. Paid.
+- [Baud Girl FM-1+VA](https://baudgirl.com/work/FM-1+VA) (external) - Virtual analog engine with four knobs on every screen.
+- [Groove OS](https://www.groove-os.com/) (external) - Eight-track groovebox with effects on every track. Paid.
 - [X0X](https://github.com/charlesvestal/fm1-x0x) - 909, 808 and two 303s with a breakbeat generator and song mode.
 - [FoMni](https://github.com/charlesvestal/fm1-fomni) - Omnichord-style chord harp.
 - [AMB-1](https://github.com/charlesvestal/fm1-amb) - Generative ambient machine.
@@ -338,14 +341,14 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### SMK-37
 
-- [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
-- [SMK-37 firmwares](https://genkigenki.github.io/smk37/) - Browser installer for the SMK-37 ports below, and the way back to the stock firmware.
+- [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) (external) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
+- [SMK-37 firmwares](https://genkigenki.github.io/smk37/) (external) - Browser installer for the SMK-37 ports below, and the way back to the stock firmware.
 - [Makkuro37](https://github.com/genkigenki/Makkuro37) - Microtonal drone synth.
 - [Snoop37](https://github.com/genkigenki/Snoop37) - SLOOP port: four-track live groovebox.
 - [X0X37](https://github.com/genkigenki/X0X37) - X0X port: 909, 808 and two 303s.
 - [FoMni37](https://github.com/genkigenki/FoMni37) - FoMni port: Omnichord-style chord harp.
 - [MAKU37](https://github.com/genkigenki/MAKU37) - MAKU port: always-on ambience machine.
-- [fm1-to-smk37](https://genkigenki.github.io/smk37/kit.html) - Guide and tools to port FM-1 firmwares to the SMK-37.
+- [fm1-to-smk37](https://genkigenki.github.io/smk37/kit.html) (external) - Guide and tools to port FM-1 firmwares to the SMK-37.
 
 ## Mutable Instruments
 
@@ -388,7 +391,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [DOOM OS MIDI Conductor](https://github.com/danielmcc123/doom-os-midi-conductor) - Send pads, knobs and steps out over MIDI.
 - [DOOMos +SYNTHS](https://github.com/TTplugs/sp404mk2-synth) - Polyphonic synth engine, built on DOOM OS.
 - [dm-404](https://github.com/nickpetty/dm-404) - Emulator that runs your own firmware, with a VST3 bridge.
-- [OpenSP](https://opensp.fyi/) - Firmware modding project and notes.
+- [OpenSP](https://opensp.fyi/) (external) - Firmware modding project and notes.
 - [open404](https://github.com/iare-digital/open404) - Toolkit and CLI for files and protocols.
 - [sp404mk2-tools](https://github.com/gsterlin/sp404mk2-tools) - File format tools.
 - [SparkyMK2](https://github.com/TuscanPL/SparkyMK2) - Replacement for the official app.
@@ -425,12 +428,12 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### SP-1200
 
-- [mod_pr4x1s](https://sp1200.pr4x1s.fm/) - Two-line segment screen, count-in, pad output readout and undo. Builds from your own 1.04 firmware and runs from memory.
+- [mod_pr4x1s](https://sp1200.pr4x1s.fm/) (external) - Two-line segment screen, count-in, pad output readout and undo. Builds from your own 1.04 firmware and runs from memory.
 
 ## Synthstrom
 
 - [DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) - Open source community firmware for the Deluge.
-- [Deluge Community](https://delugecommunity.com/) - Downloads, docs and developer guides.
+- [Deluge Community](https://delugecommunity.com/) (external) - Downloads, docs and developer guides.
 - [downrush](https://github.com/jamiefaye/downrush) - File manager and editors for Deluge content.
 - [delugemu](https://github.com/gramster/delugemu) - Deluge emulator that boots the community firmware.
 
@@ -455,7 +458,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [op1hacks docs](https://github.com/op1hacks/docs) - Firmware and hardware research notes.
 - [te-op1](https://github.com/jstnfst/te-op1) - OP-1 Field patch format notes and tool.
 - [teoperator](https://github.com/schollz/teoperator) - Make OP-1 and OP-Z patches from any audio.
-- [op1.fun](https://op1.fun) - Patch sharing site with a drum kit builder.
+- [op1.fun](https://op1.fun) (external) - Patch sharing site with a drum kit builder.
 - [op1emu](https://github.com/op1emu/op1emu) - Emulator for the original OP-1 that runs your own firmware.
 
 ### OP-XY
