@@ -35,6 +35,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [logue SDK devices](#logue-sdk-devices)
   - [Volca](#volca)
   - [Prophecy](#prophecy)
+  - [SQ-64](#sq-64)
 - [M-VAVE](#m-vave)
   - [FM-1](#fm-1)
   - [SMK-37](#smk-37)
@@ -318,6 +319,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### Prophecy
 
 - [Profligacy](https://github.com/joelanders/profligacy) - Prophecy emulator. Bring your own ROMs.
+
+### SQ-64
+
+- [Korg-SQ-64-Emulator](https://github.com/aleph-void/Korg-SQ-64-Emulator) - Browser-based WebAssembly emulator for custom firmware. Bring your own firmware image.
 
 ## M-VAVE
 
