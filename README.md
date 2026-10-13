@@ -50,6 +50,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [Boutique](#boutique)
   - [MC-101 and MC-707](#mc-101-and-mc-707)
   - [TR-8S](#tr-8s)
+- [Rossum Electro-Music](#rossum-electro-music)
+  - [SP-1200](#sp-1200)
 - [Synthstrom](#synthstrom)
 - [Teenage Engineering](#teenage-engineering)
   - [EP-133 K.O. II](#ep-133-ko-ii)
@@ -330,6 +332,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [AMB-1](https://github.com/charlesvestal/fm1-amb) - Generative ambient machine.
 - [ORBIT](https://github.com/dspaudio/orbit) - Groovebox with sample tools and OP-1-style screens, based on SLOOP.
 - [Jangada](https://github.com/zednaked/jangada) - Superwave synth with a modulation matrix, drones and ratchets.
+- [Fart Machine One](https://github.com/adamcharleswilsonmusic-code/Fart-Machine-One) - Eleven farts, reverb, delay and a 16-step sequencer.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
 
@@ -417,6 +420,12 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [TR-8S-SysEx](https://github.com/compuphonic/TR-8S-SysEx) - SysEx reverse engineering notes.
 - [tr8s-studio](https://github.com/ideaCompany/tr8s-studio) - Live studio built on that SysEx.
+
+## Rossum Electro-Music
+
+### SP-1200
+
+- [mod_pr4x1s](https://sp1200.pr4x1s.fm/) - Two-line segment screen, count-in, pad output readout and undo. Builds from your own 1.04 firmware and runs from memory.
 
 ## Synthstrom
 
