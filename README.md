@@ -41,6 +41,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [SMK-37](#smk-37)
 - [Mutable Instruments](#mutable-instruments)
 - [Novation](#novation)
+  - [Circuit](#circuit)
   - [Circuit Tracks](#circuit-tracks)
   - [Launchpad](#launchpad)
 - [Polyend](#polyend)
@@ -53,6 +54,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [TR-8S](#tr-8s)
 - [Rossum Electro-Music](#rossum-electro-music)
   - [SP-1200](#sp-1200)
+- [Sequential](#sequential)
 - [Synthstrom](#synthstrom)
 - [Teenage Engineering](#teenage-engineering)
   - [EP-133 K.O. II](#ep-133-ko-ii)
@@ -63,6 +65,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [SP-1 Stem Player](#sp-1-stem-player)
 - [Torso](#torso)
 - [Yamaha](#yamaha)
+- [Zoom](#zoom)
+  - [MultiStomp](#multistomp)
 - [1010music](#1010music)
 - [Communities](#communities)
 - [Related lists](#related-lists)
@@ -108,6 +112,9 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### MPC Live, One, X, Key and Force
 
+- [MPC-LiveXplore](https://github.com/TheKikGen/MPC-LiveXplore) - SSH and bootstrap images, hacks and a wiki for MPC and Force units.
+- [MockbaMod](https://github.com/MockbaTheBorg/MockbaMod) - Force mod that runs on the factory firmware, with add-ons and apps from the SD card.
+- [MPC-Force-SSH-Firmwares](https://github.com/bonsaipanda/MPC-Force-SSH-Firmwares) - Official MPC and Force firmware with SSH and mouse control enabled.
 - [MPCLiveXplore-libs](https://github.com/TheKikGen/MPCLiveXplore-libs) - Libraries for modded units, including a MIDI and button remapper.
 - [MPC-LiveXplore-bootstrap](https://github.com/TheKikGen/MPC-LiveXplore-bootstrap) - Boot-time customisation scripts from SD card.
 - [akai_standalone_remap](https://github.com/mmiroshnikov/akai_standalone_remap) - Remap buttons with double taps, long presses and Shift layers.
@@ -164,7 +171,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [MicroDude](https://github.com/dagargo/microdude) - Linux editor for settings and sequences.
 - [midi2mbseq](https://github.com/mebitek/midi2mbseq) - Convert MIDI files to MicroBrute sequences.
-- [minibrute-editor](https://github.com/HelgeSverre/minibrute-editor) - Web editor for the MiniBrute.
 
 ### MicroFreak and MiniFreak
 
@@ -247,7 +253,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Tone+FX](https://github.com/DigiAlchemydsp/Tone-FX) - Master effects: ring mod, EQ, lo-fi, wavefolder. Mk1.
 - [DigiCosm](https://github.com/irpina/digicosm) - Microcosm-style effects for the inputs. Mk1.
 - [DigiChroma](https://github.com/irpina/digichroma) - Chroma Console-style effects for the inputs. Mk1.
-- [dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore) - Inspect, modify and rebuild the firmware. Digitone II.
+- [dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore) - OS mods such as a fourth LFO, new arp modes and LFO waves, applied in the browser, plus rebuild tools. Digitone II.
 - [dn2-cfw](https://github.com/naturarum/dn2-cfw) - Research and tools, with a flanger on the DSP. Digitone II.
 
 ### Machinedrum
@@ -378,6 +384,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Novation
 
+### Circuit
+
+- [Circuit Extended](https://github.com/tracelistener/tracelistener-circuit-extended) - Custom firmware with Scale Follow, sample start, distortion type and a filter LFO.
+
 ### Circuit Tracks
 
 - [CIRCUITS-HACKS-RC](https://github.com/Ghillermo/CIRCUITS-HACKS-RC) - Firmware patches, tools and emulator.
@@ -388,6 +398,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [launchpad-pro](https://github.com/dvhdr/launchpad-pro) - Official open firmware API for the original Launchpad Pro.
 - [lpp-performance-cfw](https://github.com/mat1jaczyyy/lpp-performance-cfw) - Performance custom firmware for the Launchpad Pro.
+- [LP-Firmware-Utility](https://github.com/mat1jaczyyy/LP-Firmware-Utility) - Web tool to update and patch Launchpad firmware, with custom palettes.
 - [issho-launchpad-firmware](https://github.com/perkowitz/issho-launchpad-firmware) - Sequencer firmware for the Launchpad Pro.
 
 ## Polyend
@@ -400,6 +411,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ## Roland
 
 - [AIRA Switcher](https://github.com/tracelistener/aira-switcher) - Switch an AIRA Modular unit between Bitrazer, Demora, Torcido and Scooper.
+- [SYSTEM OSCILLATOR](https://github.com/tracelistener/aira-modular-system-osc) - Custom firmware that puts the SYSTEM-1m oscillator waves on the AIRA Modular Scooper and Demora.
 - [Roland-Structured-Storage](https://github.com/DrKnackeratorStrikesAgain/Roland-Structured-Storage) - Read and write ZEN-Core project files.
 - [OpenMK](https://github.com/keithadler/openmk) - MKS-20 and MK-80 piano emulator in the browser. Bring your own ROMs.
 
@@ -408,6 +420,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [DOOM OS](https://github.com/klangfeld-labs/doom-os) - Custom OS with a graphical sequencer, piano roll, mixer, effect automation and undo.
 - [DOOM OS MIDI Conductor](https://github.com/danielmcc123/doom-os-midi-conductor) - Send pads, knobs and steps out over MIDI.
 - [DOOMos +SYNTHS](https://github.com/TTplugs/sp404mk2-synth) - Polyphonic synth engine, built on DOOM OS.
+- [Tallfree](https://github.com/Mudb0y/tallfree) - Screen reader firmware that speaks menus, settings and sample names.
 - [dm-404](https://github.com/nickpetty/dm-404) - Emulator that runs your own firmware, with a VST3 bridge.
 - [OpenSP](https://opensp.fyi/) (external) - Firmware modding project and notes.
 - [open404](https://github.com/iare-digital/open404) - Toolkit and CLI for files and protocols.
@@ -447,6 +460,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### SP-1200
 
 - [mod_pr4x1s](https://sp1200.pr4x1s.fm/) (external) - Two-line segment screen, count-in, pad output readout and undo. Builds from your own 1.04 firmware and runs from memory.
+
+## Sequential
+
+- [PX-RE](https://github.com/water-feature/PX-RE) - Patcher for the official OS with bug fixes and sample window changes, plus a larger SSD guide. Prophet X.
 
 ## Synthstrom
 
@@ -514,6 +531,14 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [KnobKraft Orm](https://github.com/christofmuc/KnobKraft-orm) - SysEx librarian for many synths, including the reface DX.
 - [RDX-Reface-DX-emu](https://github.com/copych/RDX-Reface-DX-emu) - reface DX engine on an ESP32.
+
+## Zoom
+
+### MultiStomp
+
+- [stomphacks](https://github.com/thammer/stomphacks) - Toolchain to build your own effects in C, with routing effects. MS Plus series.
+- [ZoomMultistompZDL](https://github.com/themanro/ZoomMultistompZDL) - Custom effects, NAM and IR loaders and a browser patch editor. Original MS series.
+- [MIDISTOMP](https://github.com/matujuice/zoom-ms-midistomp) - Custom firmware that adds MIDI CC, program change, MIDI clock and a tempo screen. MS-50G and MS-60B.
 
 ## 1010music
 
