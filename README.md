@@ -529,6 +529,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Yamaha
 
+- [Tenori-on firmware](https://www.pika.blue/categories/tenori-on/) (external) - Over 40 new features: per-layer effects, splits, pitch bend, a grid mode for norns and more. Tenori-on.
 - [KnobKraft Orm](https://github.com/christofmuc/KnobKraft-orm) - SysEx librarian for many synths, including the reface DX.
 - [RDX-Reface-DX-emu](https://github.com/copych/RDX-Reface-DX-emu) - reface DX engine on an ESP32.
 
