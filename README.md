@@ -336,19 +336,32 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [ORBIT](https://github.com/dspaudio/orbit) - Groovebox with sample tools and OP-1-style screens, based on SLOOP.
 - [Jangada](https://github.com/zednaked/jangada) - Superwave synth with a modulation matrix, drones and ratchets.
 - [Fart Machine One](https://github.com/adamcharleswilsonmusic-code/Fart-Machine-One) - Eleven farts, reverb, delay and a 16-step sequencer.
+- [MAKU](https://github.com/okumurari2/maku) - Always-on ambience machine.
+- [Rainbow mode](https://github.com/joshbartlettband-web/felucca-rainbow) - Felucca fork: a music toy for kids with colour-coded notes.
+- [GHOULBOX](https://github.com/jasonpersinger/ghoulbox-fm1-dungeon-synth) - Dungeon synth with drones and a hurdy-gurdy crank.
+- [ChoralRoot](https://github.com/Quixotic7/ChoralRootFM1) - Chord instrument with strum, arpeggio and pattern modes.
+- [Polly](https://github.com/charlesvestal/fm1-polly) - QY70-style arranger: a General MIDI band follows the chords you play.
+- [winampFM](https://github.com/hericdk/winampFM) - Synth groovebox in the look of Winamp 2.x, based on SLOOP.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
 
 ### SMK-37
 
 - [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) (external) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
-- [SMK-37 firmwares](https://genkigenki.github.io/smk37/) (external) - Browser installer for the SMK-37 ports below, and the way back to the stock firmware.
+- [SMK-37 firmwares](https://genkigenki.github.io/smk37/) (external) - Browser installer for the SMK-37 firmwares below, and the way back to the stock firmware.
 - [Makkuro37](https://github.com/genkigenki/Makkuro37) - Microtonal drone synth.
-- [Snoop37](https://github.com/genkigenki/Snoop37) - SLOOP port: four-track live groovebox.
-- [X0X37](https://github.com/genkigenki/X0X37) - X0X port: 909, 808 and two 303s.
-- [FoMni37](https://github.com/genkigenki/FoMni37) - FoMni port: Omnichord-style chord harp.
+- [Snoop37](https://github.com/genkigenki/sloop-fm1/tree/snoop37) - SLOOP port: four-track live groovebox.
+- [X0X for the SMK-37](https://github.com/genkigenki/fm1-x0x/tree/smk37) - X0X port: 909, 808 and two 303s.
+- [FoMni for the SMK-37](https://github.com/genkigenki/fm1-fomni/tree/smk37) - FoMni port: chords on the keys, the pads as the strum plate.
 - [MAKU37](https://github.com/genkigenki/MAKU37) - MAKU port: always-on ambience machine.
-- [fm1-to-smk37](https://genkigenki.github.io/smk37/kit.html) (external) - Guide and tools to port FM-1 firmwares to the SMK-37.
+- [RAINBOW37](https://github.com/genkigenki/RAINBOW37) - Rainbow mode port: the music toy for kids, notes lit on the pads.
+- [GHOULBOX for the SMK-37](https://github.com/genkigenki/Felucca/tree/ghoulbox-smk37) - GHOULBOX port: dungeon synth with fader banks.
+- [ChoralRoot for the SMK-37](https://github.com/genkigenki/ChoralRootFM1/tree/smk37) - ChoralRoot port: the chord functions on the pads, all 37 keys play.
+- [ORBIT for the SMK-37](https://github.com/genkigenki/orbit/tree/smk37) - ORBIT port: groovebox with an event tape.
+- [AMB-1 for the SMK-37](https://github.com/genkigenki/fm1-amb/tree/smk37) - AMB-1 port: generative ambient, bells on the pads.
+- [Polly for the SMK-37](https://github.com/genkigenki/fm1-polly/tree/smk37) - Polly port: sections and progressions on the pads.
+- [winampFM for the SMK-37](https://github.com/genkigenki/winampFM/tree/smk37) - winampFM port: the loop on the pads in each track's colour.
+- [fm1-to-smk37](https://github.com/genkigenki/fm1-to-smk37) - Guide and tools to port FM-1 firmwares to the SMK-37, and back.
 
 ## Mutable Instruments
 
