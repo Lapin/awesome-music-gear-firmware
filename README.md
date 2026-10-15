@@ -269,6 +269,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### Model:Cycles
 
 - [Modded-Cycles](https://github.com/18nelli18/Modded-Cycles) - Browser mod picker: 6-channel USB audio, Syntakt engines, sampler.
+- [Supermodel Edition](https://github.com/AveyCole/Modded-Cycles) - Modded-Cycles fork with a 909-style kit, wavetable machine, scale sequence generator, chord keys and a second LFO.
 - [Model-TG](https://github.com/TinyGregAudio/Model-TG) - Sampler machine, resampling and beat repeat.
 - [model-tweaks](https://github.com/drumkilla/elektron-model-tweaks) - Firmware mods with a web flasher. Also Model:Samples.
 - [ms-multi-output](https://github.com/scottmetoyer/ms-multi-output) - Six channels of USB audio. Also Model:Samples.
