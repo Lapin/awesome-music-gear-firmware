@@ -552,6 +552,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [Hacktronauts](https://hacktronauts.com) - Forum for hacking, modding and building music hardware.
 - [Elektronmods](https://elektronmods.com) - Forum and catalog of Elektron mods.
+- [ElektronMods subreddit](https://reddit.com/r/elektronmods) - Subreddit for Elektron mods.
 - [lines](https://llllllll.co) - Forum for music, art and open source tools.
 
 ## Related lists
