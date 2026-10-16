@@ -337,6 +337,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### FM-1
 
+- [FM1 Open](https://github.com/m-vave/fm1_open) - Official open source firmware and SDK from M-VAVE: eight tracks, six sound engines, GPLv3 with an SDK linking exception. The sound engine ships as a binary.
+- [FM1 Workbench](https://open.m-vave.com/fm1-workbench) (external) - Official browser editor and flasher over USB MIDI, with a simulator and a way back to the stock firmware.
 - [Felucca](https://github.com/hugelton/Felucca) - Multi-engine synth firmware, and the base for many others.
 - [JIANT FM](https://github.com/juanjiant-bit/JIANT) - Felucca fork for live play and whole songs, with a browser emulator and installer.
 - [SLOOP](https://github.com/isod89/sloop-fm1) - Four-track live groovebox.
@@ -555,6 +557,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Elektronmods](https://elektronmods.com) - Forum and catalog of Elektron mods.
 - [ElektronMods subreddit](https://reddit.com/r/elektronmods) - Subreddit for Elektron mods.
 - [lines](https://llllllll.co) - Forum for music, art and open source tools.
+- [M-VAVE forum](https://forum.m-vave.com/) (external) - Official forum.
 
 ## Related lists
 
