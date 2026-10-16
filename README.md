@@ -284,7 +284,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [octabam](https://github.com/sambanks/octabam) - DSP effects, sequencer and MIDI mods in one build.
 - [octa-panel](https://github.com/timhastie/octa-panel) - Paraphonic FM machine and scale quantizer, built on octabam.
-- [ems-octakit](https://github.com/emuyia/ems-octakit) - 256 kits per project instead of 4 parts per bank.
+- [ems-octakit](https://github.com/LyingDalai/ems-octakit) - 256 kits per project instead of 4 parts per bank.
 - [octatrack-kyoti-fw](https://github.com/Zac-Kyoti/octatrack-kyoti-fw) - Sidechain compressor, direct jump and repitch modes.
 - [midisc](https://github.com/bkkbrls-del/midisc) - MIDI scene locks.
 - [OCTAMAX](https://github.com/mxldyn/octamax) - Reverse engineering toolkit with optional patches.
@@ -420,7 +420,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [DOOM OS](https://github.com/klangfeld-labs/doom-os) - Custom OS with a graphical sequencer, piano roll, mixer, effect automation and undo.
 - [DOOM OS MIDI Conductor](https://github.com/danielmcc123/doom-os-midi-conductor) - Send pads, knobs and steps out over MIDI.
-- [DOOMos +SYNTHS](https://github.com/TTplugs/sp404mk2-synth) - Polyphonic synth engine, built on DOOM OS.
 - [Tallfree](https://github.com/Mudb0y/tallfree) - Screen reader firmware that speaks menus, settings and sample names.
 - [dm-404](https://github.com/nickpetty/dm-404) - Emulator that runs your own firmware, with a VST3 bridge.
 - [OpenSP](https://opensp.fyi/) (external) - Firmware modding project and notes.
@@ -563,7 +562,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [awesome-m8](https://github.com/v3rm0n/awesome-m8) - M8 headless clients, builds and tools.
 - [eurorack-awesome](https://github.com/newdigate/eurorack-awesome) - Eurorack resources.
 - [awesome-fm-1](https://github.com/cicloid/awesome-fm-1) - M-VAVE FM-1 firmware, tools and resources.
-- [Unofficial Elektron Hacking Wiki](https://github.com/amorgan101010/unofficial-elektron-hacking-wiki) - Elektron firmware hacks and emulators.
 
 ## Contributing
 
