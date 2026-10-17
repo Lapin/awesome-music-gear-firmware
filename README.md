@@ -299,6 +299,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### Syntakt
 
+- [SyntHack OS](https://github.com/Angelo-politek/Synthack-OS) - Modular Syntakt firmware patches adding a master compressor, beat repeat, extra send effects and readable parameter values.
 - [syntakt-firmware-workbench](https://github.com/Bezronczek/syntakt-firmware-workbench) - Put your own waveforms into SY CHORD.
 - [sympakt](https://github.com/sinedied/sympakt) - Browser sample manager.
 
