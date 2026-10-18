@@ -186,6 +186,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [Neutron alternate firmware](https://github.com/mrf-r/Neutron) - Replacement firmware with poly LFO, hard sync and waveshaping. Abandoned.
 - [ConfiguratorModelD](https://github.com/masc4ii/ConfiguratorModelD) - Change the Model D's hidden settings.
+- [RD-6 Scatter](https://github.com/tracelistener/rd6-scatter) - RD-6 firmware with live Roll, Ratchet, Slice and Cut effects, playback directions and a mute and roll mode, installed from a browser updater.
 
 ## Casio
 
