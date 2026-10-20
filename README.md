@@ -336,6 +336,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ## M-VAVE
 
 - [FM-1 firmware catalog](https://fm1-editor.com/firmware/) (external) - Catalog of custom FM-1 firmwares, with installers and emulators.
+- [FM1 Manager](https://store.grandtree.art/FM1_Manager/) (external) - Browser installer for over 100 open source FM-1 firmwares, pulled from GitHub, over USB MIDI.
 
 ### FM-1
 
