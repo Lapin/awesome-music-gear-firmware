@@ -247,6 +247,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [digitakt2-perform](https://github.com/toonst/digitakt2-perform) - Faster perform kit toggle and kept track levels. Digitakt II.
 - [dt2-machine-lab](https://github.com/lalzart/dt2-machine-lab) - Build custom machines, including a Plaits port. Digitakt II.
 - [DigiSplash-II](https://github.com/Fadedlimes/digisplash-ii) - Custom boot animations. Digitakt II.
+- [Digitakt II All-in-One](https://github.com/karigardarsson/digitakt-ii-research) - Windows tool that builds a custom OS from your own 1.17 file, with 25 Plaits models, DX7 banks and wave zoom. Digitakt II. Beta.
 
 ### Digitone
 
@@ -503,6 +504,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### OP-XY
 
+- [Open-XY](https://github.com/etcetc000/open-xy) - SDK and browser builder that adds C++ synth and effect machines to your own stock OS. Experimental.
 - [xy-format](https://github.com/kmorrill/xy-format) - Project format reverse engineering and tools.
 - [op-xy-vibing](https://github.com/kmorrill/op-xy-vibing) - JSON loop editor that drives the OP-XY over MIDI.
 - [opxy-multisampler-preset-builder](https://github.com/sixthlaw/opxy-multisampler-preset-builder) - Build multisampler presets in the browser.
