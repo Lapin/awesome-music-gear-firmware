@@ -31,6 +31,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [Monomachine](#monomachine)
   - [Octatrack](#octatrack)
   - [Syntakt](#syntakt)
+- [Erica Synths](#erica-synths)
+  - [LXR-02](#lxr02)
 - [Korg](#korg)
   - [logue SDK devices](#logue-sdk-devices)
   - [Volca](#volca)
@@ -305,6 +307,13 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [syntakt-firmware-workbench](https://github.com/Bezronczek/syntakt-firmware-workbench) - Put your own waveforms into SY CHORD.
 - [Syntakt MAX](https://github.com/karigardarsson/Synthack-OS/releases/tag/syntakt-max-v1.0) - Windows tool that builds SyntHack OS plus a Deja Vu LFO and a 31-wave SY CHORD bank from your own 1.41 file. Experimental.
 - [sympakt](https://github.com/sinedied/sympakt) - Browser sample manager.
+
+## Erica Synths
+
+### LXR-02
+
+- [lxr-desktop-app](https://github.com/erica-synths/lxr-desktop-app) - Official open source firmware release.
+- [openelixir-02](https://github.com/tunefish777/openelixir-02) - Fork of the open sourced firmware that aims to improve existing features and fix bugs.
 
 ## Korg
 
