@@ -66,6 +66,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Torso](#torso)
 - [Yamaha](#yamaha)
 - [Zoom](#zoom)
+  - [LiveTrak L6](#livetrak-l6)
   - [MultiStomp](#multistomp)
 - [1010music](#1010music)
 - [Communities](#communities)
@@ -538,10 +539,15 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ## Yamaha
 
 - [Tenori-on firmware](https://www.pika.blue/categories/tenori-on/) (external) - Over 40 new features: per-layer effects, splits, pitch bend, a grid mode for norns and more. Tenori-on.
+- [reface-dx-firmware](https://github.com/thade/reface-dx-firmware) - Custom firmware that adds a FUNCTION menu switch to stop the MIDI clock it sends, with a browser patcher. reface DX.
 - [KnobKraft Orm](https://github.com/christofmuc/KnobKraft-orm) - SysEx librarian for many synths, including the reface DX.
 - [RDX-Reface-DX-emu](https://github.com/copych/RDX-Reface-DX-emu) - reface DX engine on an ESP32.
 
 ## Zoom
+
+### LiveTrak L6
+
+- [zoom-l6-firmware](https://github.com/thade/zoom-l6-firmware) - Custom firmware that puts your last four takes on the sound pads for overdubbing and adds a switchable stereo AUX send, with a browser patcher. Original L6, not the L6max.
 
 ### MultiStomp
 
