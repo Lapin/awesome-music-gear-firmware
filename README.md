@@ -33,6 +33,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [Syntakt](#syntakt)
 - [Erica Synths](#erica-synths)
   - [LXR-02](#lxr-02)
+- [Intellijel](#intellijel)
 - [Korg](#korg)
   - [logue SDK devices](#logue-sdk-devices)
   - [Volca](#volca)
@@ -41,6 +42,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [M-VAVE](#m-vave)
   - [FM-1](#fm-1)
   - [SMK-37](#smk-37)
+- [Making Sound Machines](#making-sound-machines)
 - [Mutable Instruments](#mutable-instruments)
 - [Novation](#novation)
   - [Circuit](#circuit)
@@ -316,6 +318,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [lxr-desktop-app](https://github.com/erica-synths/lxr-desktop-app) - Official open source firmware release.
 - [openelixir-02](https://github.com/tunefish777/openelixir-02) - Fork of the open sourced firmware that aims to improve existing features and fix bugs.
 
+## Intellijel
+
+- [Seal Eggs](https://github.com/thisisbribery/SealEggs_v1) - Browser tool that adds reverse, doppler, granular and tone mods to your own Sealegs 1.3.5.0 firmware.
+
 ## Korg
 
 ### logue SDK devices
@@ -392,6 +398,11 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [winampFM for the SMK-37](https://github.com/genkigenki/winampFM/tree/smk37) - winampFM port: the loop on the pads in each track's colour.
 - [fm1-to-smk37](https://github.com/genkigenki/fm1-to-smk37) - Guide and tools to port FM-1 firmwares to the SMK-37, and back.
 
+## Making Sound Machines
+
+- [STOLPERBEATS ULTRA](https://github.com/thisisbribery/stolperbeats-ultra-v1) - Browser flasher that adds alt swing tables, ratchets, MIDI pitch per step and a fill mode to your own Stolperbeats 163 firmware.
+- [Stolperbeats Visualiser](https://github.com/thisisbribery/stolperbeats_v2) - Browser emulator that shows each Timing, edits pattern bank files and creates your own swing tables.
+
 ## Mutable Instruments
 
 - [pichenettes/eurorack](https://github.com/pichenettes/eurorack) - Official open source firmware and hardware, the base for every alt firmware.
@@ -439,7 +450,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [DOOM OS MIDI Conductor](https://github.com/danielmcc123/doom-os-midi-conductor) - Send pads, knobs and steps out over MIDI.
 - [Tallfree](https://github.com/Mudb0y/tallfree) - Screen reader firmware that speaks menus, settings and sample names.
 - [dm-404](https://github.com/nickpetty/dm-404) - Emulator that runs your own firmware, with a VST3 bridge.
-- [OpenSP](https://opensp.fyi/) (external) - Firmware modding project and notes.
 - [open404](https://github.com/iare-digital/open404) - Toolkit and CLI for files and protocols.
 - [sp404mk2-tools](https://github.com/gsterlin/sp404mk2-tools) - File format tools.
 - [SparkyMK2](https://github.com/TuscanPL/SparkyMK2) - Replacement for the official app.
@@ -486,6 +496,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) - Open source community firmware for the Deluge.
 - [Deluge Community](https://delugecommunity.com/) (external) - Downloads, docs and developer guides.
+- [BRIBELUGE](https://github.com/thisisbribery/deluge-bribes-v1) - Community firmware fork with drum synth engines (LXR-02, Cycles style, GIN), a 303 voice, a mono sequencer, stumble swing and autofill. Experimental.
 - [downrush](https://github.com/jamiefaye/downrush) - File manager and editors for Deluge content.
 - [delugemu](https://github.com/gramster/delugemu) - Deluge emulator that boots the community firmware.
 
