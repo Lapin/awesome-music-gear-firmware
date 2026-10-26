@@ -358,6 +358,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### FM-1
 
+- [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative instrument with twelve engines, editable Biomes, user banks, shared effects and a playable browser instrument/live editor.
 - [FM1 Open](https://github.com/m-vave/fm1_open) - Official open source firmware and SDK from M-VAVE: eight tracks, six sound engines, GPLv3 with an SDK linking exception. The sound engine ships as a binary.
 - [FM1 Workbench](https://open.m-vave.com/fm1-workbench) (external) - Official browser editor and flasher over USB MIDI, with a simulator and a way back to the stock firmware.
 - [Felucca](https://github.com/hugelton/Felucca) - Multi-engine synth firmware, and the base for many others.
