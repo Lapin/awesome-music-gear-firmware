@@ -32,7 +32,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [Octatrack](#octatrack)
   - [Syntakt](#syntakt)
 - [Erica Synths](#erica-synths)
-  - [LXR-02](#lxr02)
+  - [LXR-02](#lxr-02)
 - [Korg](#korg)
   - [logue SDK devices](#logue-sdk-devices)
   - [Volca](#volca)
