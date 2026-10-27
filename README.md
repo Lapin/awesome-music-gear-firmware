@@ -358,7 +358,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### FM-1
 
-- [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative instrument with twelve engines, editable Biomes, user banks, shared effects and a playable browser instrument/live editor.
 - [FM1 Open](https://github.com/m-vave/fm1_open) - Official open source firmware and SDK from M-VAVE: eight tracks, six sound engines, GPLv3 with an SDK linking exception. The sound engine ships as a binary.
 - [FM1 Workbench](https://open.m-vave.com/fm1-workbench) (external) - Official browser editor and flasher over USB MIDI, with a simulator and a way back to the stock firmware.
 - [Felucca](https://github.com/hugelton/Felucca) - Multi-engine synth firmware, and the base for many others.
@@ -378,6 +377,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [ChoralRoot](https://github.com/Quixotic7/ChoralRootFM1) - Chord instrument with strum, arpeggio and pattern modes.
 - [Polly](https://github.com/charlesvestal/fm1-polly) - QY70-style arranger: a General MIDI band follows the chords you play.
 - [winampFM](https://github.com/hericdk/winampFM) - Synth groovebox in the look of Winamp 2.x, based on SLOOP.
+- [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative firmware with twelve engines, Biomes, user banks and a browser instrument and editor.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
 
