@@ -528,6 +528,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### OP-XY
 
 - [Open-XY](https://github.com/etcetc000/open-xy) - SDK and browser builder that adds C++ synth and effect machines to your own stock OS. Experimental.
+- [OP-XY-MNMD](https://github.com/mmockett/OP-XY-MNMD) - Elektron Machinedrum and Monomachine engines written from scratch on the Open-XY SDK: four drum kits and the Monomachine machines as separate engines. Experimental.
 - [xy-format](https://github.com/kmorrill/xy-format) - Project format reverse engineering and tools.
 - [op-xy-vibing](https://github.com/kmorrill/op-xy-vibing) - JSON loop editor that drives the OP-XY over MIDI.
 - [opxy-multisampler-preset-builder](https://github.com/sixthlaw/opxy-multisampler-preset-builder) - Build multisampler presets in the browser.
