@@ -517,6 +517,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [op1r](https://github.com/pcppcp/op1r) - Browser patcher for the original OP-1: new synths, effects, a quad LFO, Euclidean sequencer, MIDI CC and scale mode.
 - [Opus](https://github.com/LizardMan245/opus) - Plugin manager firmware for the original OP-1: a small core, with each synth, effect and feature a file you copy onto the disk.
+- [Hundekraft](https://github.com/Hundekraft/op1-workshop) - Browser firmware builder for the original OP-1: pick synths, effects and tools, including op1r ports, and build locally.
 - [op1repacker](https://github.com/op1hacks/op1repacker) - Unpack, mod and repack firmware, with ready-made mods.
 - [op1REpackerGUI](https://github.com/epixjava/op1REpackerGUI) - GUI for op1repacker.
 - [op1-glitter](https://github.com/Nanobot567/op1-glitter) - Custom colour themes.
