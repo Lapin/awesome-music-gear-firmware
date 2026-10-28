@@ -7,6 +7,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Ableton](#ableton)
   - [Move](#move)
   - [Push 3 Standalone](#push-3-standalone)
+  - [Push 2 and Push 3 Controller](#push-2-and-push-3-controller)
 - [Akai](#akai)
   - [MPC Live, One, X, Key and Force](#mpc-live-one-x-key-and-force)
   - [MPC500](#mpc500)
@@ -112,6 +113,17 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [puxenia](https://github.com/Szphynx/puxenia) - Waldorf XT and Monomachine emulations, through Push Hack.
 - [push-hack-braids](https://github.com/federico-pepe/push-hack-braids) - Standalone Braids synth.
 - [push-hack-audio-loopback](https://github.com/federico-pepe/push-hack-audio-loopback) - Send audio from other processes into Live.
+- [push-hack-keyboard-visualizer](https://github.com/federico-pepe/push-hack-keyboard-visualizer) - Piano keyboard on the Push screen, from the notes Live sounds.
+- [push-hack-automation](https://github.com/federico-pepe/push-hack-automation) - LFO-style MIDI CC automation sequencer.
+- [push-mixxx-mode](https://github.com/itsrave/push-mixxx-mode) - DJ with Mixxx on the Push, with two decks and a skin on the Push screen.
+- [push-random-preset](https://github.com/itsrave/push-random-preset) - Shift chords that load a random preset or drum kit on the selected track.
+
+### Push 2 and Push 3 Controller
+
+- [Push Tethered App](https://github.com/federico-pepe/push-tethered-app) - Desktop app that runs a tethered Push 2 or Push 3: display, pads, buttons, encoders and LEDs.
+- [pta-module-bcaseq](https://github.com/federico-pepe/pta-module-bcaseq) - BCA Seq: multi-layout MIDI step sequencer module.
+- [pta-module-gridseq](https://github.com/federico-pepe/pta-module-gridseq) - GridSeq: multitrack step sequencer module.
+- [pta-module-knobs](https://github.com/federico-pepe/pta-module-knobs) - Node.js process module example.
 
 ## Akai
 
