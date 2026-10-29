@@ -417,6 +417,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [STOLPERBEATS ULTRA](https://github.com/thisisbribery/stolperbeats-ultra-v1) - Browser flasher that adds alt swing tables, ratchets, MIDI pitch per step and a fill mode to your own Stolperbeats 163 firmware.
 - [Stolperbeats Visualiser](https://github.com/thisisbribery/stolperbeats_v2) - Browser emulator that shows each Timing, edits pattern bank files and creates your own swing tables.
 
+## Moog
+
+- [Subharmonicon Tallent Edition](https://brandon-tallent.github.io/subharmonicon-extended-firmware/) - An unofficial firmware extension for Subharmonicon firmware
+
 ## Mutable Instruments
 
 - [pichenettes/eurorack](https://github.com/pichenettes/eurorack) - Official open source firmware and hardware, the base for every alt firmware.
