@@ -44,6 +44,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [FM-1](#fm-1)
   - [SMK-37](#smk-37)
 - [Making Sound Machines](#making-sound-machines)
+- [Moog](#Moog)
 - [Mutable Instruments](#mutable-instruments)
 - [Novation](#novation)
   - [Circuit](#circuit)
