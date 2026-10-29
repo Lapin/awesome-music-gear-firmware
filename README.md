@@ -393,7 +393,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative firmware with twelve engines, Biomes, user banks and a browser instrument and editor.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
-- [Elixir](https://dmajka.github.io/elixir/) - Erica Synths LXR-02 drum synth port.
+- [Elixir](https://github.com/dmajka/elixir) - Erica Synths LXR-02 drum synth port.
 
 ### SMK-37
 
@@ -420,7 +420,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Moog
 
-- [Subharmonicon Tallent Edition](https://brandon-tallent.github.io/subharmonicon-extended-firmware/) - An unofficial firmware extension for Subharmonicon firmware
+- [Subharmonicon Tallent Edition](https://github.com/brandon-tallent/subharmonicon-extended-firmware) - An unofficial firmware extension for Subharmonicon firmware
 
 ## Mutable Instruments
 
@@ -604,7 +604,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [bitboxctl](https://github.com/Preskton/bitboxctl) - Build Bitbox Micro presets.
 - [PocketRave Blackbox mod](https://github.com/pocketrave/blackbox) - New sequencer features for the original Blackbox.
 - [BlueLex](https://github.com/lexnels/bluelex-bluebox-euro) - CPU meter and a room reverb for the bluebox eurorack edition.
-- [bitbox-micro-fw-patch](https://modularpatcher.github.io/bitbox-micro-fw-patch/) - Unofficial patcher to extend midi capability and adds new features.
+- [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Unofficial patcher to extend midi capability and adds new features.
 
 ## Communities
 
