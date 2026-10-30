@@ -44,6 +44,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [FM-1](#fm-1)
   - [SMK-37](#smk-37)
 - [Making Sound Machines](#making-sound-machines)
+- [Moog](#Moog)
 - [Mutable Instruments](#mutable-instruments)
 - [Novation](#novation)
   - [Circuit](#circuit)
@@ -392,6 +393,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative firmware with twelve engines, Biomes, user banks and a browser instrument and editor.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
+- [Elixir](https://github.com/dmajka/elixir) - Erica Synths LXR-02 drum synth port.
 
 ### SMK-37
 
@@ -415,6 +417,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [STOLPERBEATS ULTRA](https://github.com/thisisbribery/stolperbeats-ultra-v1) - Browser flasher that adds alt swing tables, ratchets, MIDI pitch per step and a fill mode to your own Stolperbeats 163 firmware.
 - [Stolperbeats Visualiser](https://github.com/thisisbribery/stolperbeats_v2) - Browser emulator that shows each Timing, edits pattern bank files and creates your own swing tables.
+
+## Moog
+
+- [Subharmonicon Tallent Edition](https://github.com/brandon-tallent/subharmonicon-extended-firmware) - An unofficial firmware extension for Subharmonicon firmware
 
 ## Mutable Instruments
 
@@ -598,6 +604,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [bitboxctl](https://github.com/Preskton/bitboxctl) - Build Bitbox Micro presets.
 - [PocketRave Blackbox mod](https://github.com/pocketrave/blackbox) - New sequencer features for the original Blackbox.
 - [BlueLex](https://github.com/lexnels/bluelex-bluebox-euro) - CPU meter and a room reverb for the bluebox eurorack edition.
+- [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Unofficial patcher to extend midi capability and adds new features.
+- [Bitbox MkII browser patcher](https://github.com/vwal/bitbox-mkii-patcher) - Unofficial browser patcher to add some workflow enhancements and features
 
 ## Communities
 
