@@ -605,6 +605,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [PocketRave Blackbox mod](https://github.com/pocketrave/blackbox) - New sequencer features for the original Blackbox.
 - [BlueLex](https://github.com/lexnels/bluelex-bluebox-euro) - CPU meter and a room reverb for the bluebox eurorack edition.
 - [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Unofficial patcher to extend midi capability and adds new features.
+- [Bitbox MkII browser patcher](https://github.com/vwal/bitbox-mkii-patcher) - Unofficial browser patcher to add some workflow enhancements and features
 
 ## Communities
 
