@@ -592,6 +592,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [stomphacks](https://github.com/thammer/stomphacks) - Toolchain to build your own effects in C, with routing effects. MS Plus series.
 - [ZoomMultistompZDL](https://github.com/themanro/ZoomMultistompZDL) - Custom effects, NAM and IR loaders and a browser patch editor. Original MS series.
 - [MIDISTOMP](https://github.com/matujuice/zoom-ms-midistomp) - Custom firmware that adds MIDI CC, program change, MIDI clock and a tempo screen. MS-50G and MS-60B.
+- [zoom-ms-zdl-effects-pack](https://github.com/matujuice/zoom-ms-zdl-effects-pack) - Seventeen custom effects with source code, made for synths and drum machines. Tested on MS-60B.
 
 ## 1010music
 
