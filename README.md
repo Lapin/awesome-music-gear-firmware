@@ -550,6 +550,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### OP-Z
 
+- [OP-FREE](https://github.com/mutlisensor/op-free) - Community synth and effect engines installed over USB as user plugs, with an SDK, a simulator and firmware research notes.
 - [op-z-sysex](https://github.com/kmorrill/op-z-sysex) - SysEx, state sync and file transfer docs.
 - [libopz](https://github.com/patriciogonzalezvivo/libopz) - Parse projects and talk to the OP-Z.
 - [underbridge](https://github.com/BKLronin/underbridge) - Export patterns as per-track audio.
