@@ -11,6 +11,7 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 - [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two drum layers, acid bass, echo, spring reverb and a song arranger. (M-VAVE > FM-1)
 - [Elixir](https://github.com/dmajka/elixir) - Erica Synths LXR-02 drum synth port. (M-VAVE > FM-1)
 - [subharmonicon-extended-firmware](https://github.com/brandon-tallent/subharmonicon-extended-firmware) - Extended firmware for the Subharmonicon. (Moog)
+- [tracker-ce](https://github.com/polyend/tracker-ce) - Official open source Community Edition firmware for all Tracker models. (Polyend)
 - [OP-FREE](https://github.com/mutlisensor/op-free) - Community synth and effect engines installed over USB as user plugs, with an SDK, a simulator and firmware research notes. (Teenage Engineering > OP-Z)
 - [zoom-ms-zdl-effects-pack](https://github.com/matujuice/zoom-ms-zdl-effects-pack) - Seventeen custom effects with source code, made for synths and drum machines. Tested on MS-60B. (Zoom > MultiStomp)
 - [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Patcher that extends MIDI and adds new features to the Bitbox Micro. (1010music)
