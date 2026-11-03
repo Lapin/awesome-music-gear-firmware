@@ -274,6 +274,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [DigiChroma](https://github.com/irpina/digichroma) - Chroma Console-style effects for the inputs. Mk1.
 - [dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore) - OS mods such as a fourth LFO, new arp modes and LFO waves, applied in the browser, plus rebuild tools. Digitone II.
 - [dn2-cfw](https://github.com/naturarum/dn2-cfw) - Research and tools, with a flanger on the DSP. Digitone II.
+- [Overtone](https://github.com/complex-ping/overtone) - Patcher for OS 1.12: new machines (SOPHIE, MACHINEDRUM, LOOP, THRU), per-track inserts, GROOVE timing editor. Digitone II.
 
 ### Machinedrum
 
