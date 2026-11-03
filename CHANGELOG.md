@@ -2,6 +2,12 @@
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
 
+## 2026-11-03
+
+### Added
+
+- [OP-FREE](https://github.com/mutlisensor/op-free) - Community synth and effect engines installed over USB as user plugs, with an SDK, a simulator and firmware research notes. (Teenage Engineering > OP-Z)
+
 ## 2026-10-28
 
 ### Added
