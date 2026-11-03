@@ -8,13 +8,13 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 
 - [Overtone](https://github.com/complex-ping/overtone) - Patcher for OS 1.12: new machines (SOPHIE, MACHINEDRUM, LOOP, THRU), per-track inserts, GROOVE timing editor. Digitone II. (Elektron > Digitone)
 - [Synfact](https://synfact.app) (external) - Builds custom firmware and mods for the Syntakt from your own stock OS file. (Elektron > Syntakt)
-- [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two independent drum layers, acid bass, echo and spring reverb; version 2.0 adds a song arranger, ratchets, swung recording, a kit builder and additional drum kits. Includes a browser emulator, guide and web installer. (M-VAVE > FM-1)
+- [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two drum layers, acid bass, echo, spring reverb and a song arranger. (M-VAVE > FM-1)
 - [Elixir](https://github.com/dmajka/elixir) - Erica Synths LXR-02 drum synth port. (M-VAVE > FM-1)
-- [Subharmonicon Tallent Edition](https://github.com/brandon-tallent/subharmonicon-extended-firmware) - An unofficial firmware extension for Subharmonicon firmware (Moog)
+- [subharmonicon-extended-firmware](https://github.com/brandon-tallent/subharmonicon-extended-firmware) - Extended firmware for the Subharmonicon. (Moog)
 - [OP-FREE](https://github.com/mutlisensor/op-free) - Community synth and effect engines installed over USB as user plugs, with an SDK, a simulator and firmware research notes. (Teenage Engineering > OP-Z)
 - [zoom-ms-zdl-effects-pack](https://github.com/matujuice/zoom-ms-zdl-effects-pack) - Seventeen custom effects with source code, made for synths and drum machines. Tested on MS-60B. (Zoom > MultiStomp)
-- [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Unofficial patcher to extend midi capability and adds new features. (1010music)
-- [Bitbox MkII browser patcher](https://github.com/vwal/bitbox-mkii-patcher) - Unofficial browser patcher to add some workflow enhancements and features (1010music)
+- [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Patcher that extends MIDI and adds new features to the Bitbox Micro. (1010music)
+- [Bitbox MkII browser patcher](https://github.com/vwal/bitbox-mkii-patcher) - Browser patcher that adds workflow features to the Bitbox MkII. (1010music)
 
 ## 2026-10-28
 
