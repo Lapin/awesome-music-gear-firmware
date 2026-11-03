@@ -44,7 +44,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [FM-1](#fm-1)
   - [SMK-37](#smk-37)
 - [Making Sound Machines](#making-sound-machines)
-- [Moog](#Moog)
+- [Moog](#moog)
 - [Mutable Instruments](#mutable-instruments)
 - [Novation](#novation)
   - [Circuit](#circuit)
@@ -378,7 +378,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Felucca](https://github.com/hugelton/Felucca) - Multi-engine synth firmware, and the base for many others.
 - [JIANT FM](https://github.com/juanjiant-bit/JIANT) - Felucca fork for live play and whole songs, with a browser emulator and installer.
 - [SLOOP](https://github.com/isod89/sloop-fm1) - Four-track live groovebox.
-- [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two independent drum layers, acid bass, echo and spring reverb; version 2.0 adds a song arranger, ratchets, swung recording, a kit builder and additional drum kits. Includes a browser emulator, guide and web installer.
+- [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two drum layers, acid bass, echo, spring reverb and a song arranger.
 - [Baud Girl FM-1+VA](https://baudgirl.com/work/FM-1+VA) (external) - Virtual analog engine with four knobs on every screen.
 - [Groove OS](https://www.groove-os.com/) (external) - Eight-track groovebox with effects on every track. Paid.
 - [X0X](https://github.com/charlesvestal/fm1-x0x) - 909, 808 and two 303s with a breakbeat generator and song mode.
@@ -423,7 +423,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Moog
 
-- [Subharmonicon Tallent Edition](https://github.com/brandon-tallent/subharmonicon-extended-firmware) - An unofficial firmware extension for Subharmonicon firmware
+- [subharmonicon-extended-firmware](https://github.com/brandon-tallent/subharmonicon-extended-firmware) - Extended firmware for the Subharmonicon.
 
 ## Mutable Instruments
 
@@ -609,8 +609,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [bitboxctl](https://github.com/Preskton/bitboxctl) - Build Bitbox Micro presets.
 - [PocketRave Blackbox mod](https://github.com/pocketrave/blackbox) - New sequencer features for the original Blackbox.
 - [BlueLex](https://github.com/lexnels/bluelex-bluebox-euro) - CPU meter and a room reverb for the bluebox eurorack edition.
-- [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Unofficial patcher to extend midi capability and adds new features.
-- [Bitbox MkII browser patcher](https://github.com/vwal/bitbox-mkii-patcher) - Unofficial browser patcher to add some workflow enhancements and features
+- [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Patcher that extends MIDI and adds new features to the Bitbox Micro.
+- [Bitbox MkII browser patcher](https://github.com/vwal/bitbox-mkii-patcher) - Browser patcher that adds workflow features to the Bitbox MkII.
 
 ## Communities
 
