@@ -454,6 +454,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Polyend
 
+- [tracker-ce](https://github.com/polyend/tracker-ce) - Official open source Community Edition firmware for all Tracker models.
 - [RETracker](https://github.com/patois/RETracker) - Reverse engineering framework that patches the Tracker firmware.
 - [tracker-lib](https://github.com/polyend/tracker-lib) - Official library for Tracker project and instrument files.
 - [pti-tools](https://github.com/jaap3/pti-tools) - Build sliced Tracker instruments from samples.
