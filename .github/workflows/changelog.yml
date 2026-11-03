@@ -1,0 +1,32 @@
+name: Update changelog
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: changelog
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Rebuild CHANGELOG.md
+        run: python3 .github/scripts/changelog.py
+      - name: Commit if it changed
+        run: |
+          git add CHANGELOG.md
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update changelog"
+          git pull --rebase origin main
+          git push
