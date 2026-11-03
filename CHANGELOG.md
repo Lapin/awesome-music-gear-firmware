@@ -6,6 +6,7 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 
 ### Added
 
+- [Synfact](https://github.com/GSM1980/synfact-dev) - Custom Syntakt firmware built from your own 1.41 file, with sample machines, FM machine, recorder, third LFO, arpeggiator and POLY mods. (Elektron > Syntakt)
 - [OP-FREE](https://github.com/mutlisensor/op-free) - Community synth and effect engines installed over USB as user plugs, with an SDK, a simulator and firmware research notes. (Teenage Engineering > OP-Z)
 - [zoom-ms-zdl-effects-pack](https://github.com/matujuice/zoom-ms-zdl-effects-pack) - Seventeen custom effects with source code, made for synths and drum machines. Tested on MS-60B. (Zoom > MultiStomp)
 
