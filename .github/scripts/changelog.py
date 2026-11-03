@@ -2,7 +2,6 @@
 """Rebuild CHANGELOG.md from the history of README.md on the current branch."""
 import re
 import subprocess
-from collections import OrderedDict
 from pathlib import Path
 
 ENTRY = re.compile(r"^\s*- \[([^\]]+)\]\((https?://[^\s)]+)\)(.*)$")
@@ -38,48 +37,58 @@ def entries(readme):
     return found
 
 
+def name_of(entry):
+    return ENTRY.match("- " + entry["line"]).group(1)
+
+
 def compare(old, new):
     changes = {"Added": [], "Removed": [], "Moved": [], "Changed": []}
+    removed = {key: entry for key, entry in old.items() if key not in new}
+    relinked = {name_of(entry): entry for entry in removed.values()}
     for key, entry in new.items():
         before = old.get(key)
         if before is None:
-            changes["Added"].append(f"{entry['line']} ({entry['section']})")
+            previous = relinked.pop(name_of(entry), None)
+            if previous is None:
+                changes["Added"].append(f"{entry['line']} ({entry['section']})")
+            else:
+                removed = {k: e for k, e in removed.items() if e is not previous}
+                changes["Changed"].append(f"{entry['line']} ({entry['section']}, link updated)")
         elif before["section"] != entry["section"]:
-            changes["Moved"].append(f"{entry['line']} (from {before['section']} to {entry['section']})")
+            reworded = ", reworded" if before["line"] != entry["line"] else ""
+            changes["Moved"].append(f"{entry['line']} (from {before['section']} to {entry['section']}{reworded})")
         elif before["line"] != entry["line"]:
             changes["Changed"].append(f"{entry['line']} ({entry['section']})")
-    for key, entry in old.items():
-        if key not in new:
-            changes["Removed"].append(f"{entry['line']} ({entry['section']})")
+    changes["Removed"] = [f"{entry['line']} ({entry['section']})" for entry in removed.values()]
     return changes
 
 
-def build():
-    log = git("log", "--first-parent", "--reverse", "--date=short", "--format=%H %ad", "--", "README.md")
-    days, previous, first = OrderedDict(), None, None
+def snapshots():
+    """The list as it stood at the end of each day, so each day shows its net change."""
+    log = git("log", "--first-parent", "--reverse", "--date=short", "--format=%H %cd", "--", "README.md")
+    days, latest = {}, ""
     for row in log.splitlines():
         commit, day = row.split()
-        current = entries(git("show", f"{commit}:README.md"))
-        if previous is None:
-            first = (day, len(current))
-        else:
-            bucket = days.setdefault(day, {"Added": [], "Removed": [], "Moved": [], "Changed": []})
-            for kind, items in compare(previous, current).items():
-                bucket[kind].extend(items)
-        previous = current
+        latest = max(latest, day)  # A commit dated earlier than its parent still counts as the latest day.
+        days[latest] = entries(git("show", f"{commit}:README.md"))
+    return list(days.items())
 
+
+def build():
+    days = snapshots()
     output = [HEADER]
-    for day, bucket in reversed(days.items()):
-        if not any(bucket.values()):
+    for (_, old), (day, new) in reversed(list(zip(days, days[1:]))):
+        changes = compare(old, new)
+        if not any(changes.values()):
             continue
         output.append(f"## {day}\n")
-        for kind, items in bucket.items():
+        for kind, items in changes.items():
             if items:
                 output.append(f"### {kind}\n")
                 output.extend(f"- {item}" for item in items)
                 output.append("")
-    if first:
-        output.append(f"## {first[0]}\n\nThe list started with {first[1]} entries.\n")
+    if days:
+        output.append(f"## {days[0][0]}\n\nThe list started with {len(days[0][1])} entries.\n")
     return "\n".join(output).rstrip() + "\n"
 
 

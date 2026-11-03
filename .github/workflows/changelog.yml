@@ -3,7 +3,10 @@ name: Update changelog
 on:
   push:
     branches: [main]
-    paths: [README.md]
+    paths:
+      - README.md
+      - .github/scripts/changelog.py
+      - .github/workflows/changelog.yml
   workflow_dispatch:
 
 permissions:
@@ -18,15 +21,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
-      - name: Rebuild CHANGELOG.md
-        run: python3 .github/scripts/changelog.py
-      - name: Commit if it changed
+      - name: Rebuild and commit from the latest main
         run: |
-          git add CHANGELOG.md
-          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update changelog"
-          git pull --rebase origin main
-          git push
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 .github/scripts/changelog.py
+            git add CHANGELOG.md
+            git diff --cached --quiet && exit 0
+            git commit -m "Update changelog"
+            git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
