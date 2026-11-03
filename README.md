@@ -322,6 +322,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [syntakt-firmware-workbench](https://github.com/Bezronczek/syntakt-firmware-workbench) - Put your own waveforms into SY CHORD.
 - [Syntakt MAX](https://github.com/karigardarsson/Synthack-OS/releases/tag/syntakt-max-v1.0) - Windows tool that builds SyntHack OS plus a Deja Vu LFO and a 31-wave SY CHORD bank from your own 1.41 file. Experimental.
 - [sympakt](https://github.com/sinedied/sympakt) - Browser sample manager.
+- [Synfact](https://synfact.app) (external) - Builds custom firmware and mods for the Syntakt from your own stock OS file.
 
 ## Erica Synths
 
