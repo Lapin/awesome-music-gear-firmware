@@ -2,6 +2,16 @@
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
 
+## 2026-11-06
+
+### Added
+
+- [CHOPPAH](https://github.com/profikid/fm1-break-choppah) - Breakbeat chopper for the M-VAVE FM-1: eight Amen-family breaks in flash, sixteen slices per break, and a four-slot FX chain (filter, bit crusher, drive, transient shaper) plus reverb, delay and a mix bus. MPL-2.0, built on fm1-base. (M-VAVE > FM-1)
+
+### Changed
+
+- [Seal Eggs](https://github.com/thisisbribery/SealEggs_v1) - Browser tool that adds reverse, doppler, granular, micro-loop and tone mods to your own Sealegs 1.3.5.0 firmware. (Intellijel)
+
 ## 2026-11-03
 
 ### Added
