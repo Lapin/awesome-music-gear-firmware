@@ -391,7 +391,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Rainbow mode](https://github.com/joshbartlettband-web/felucca-rainbow) - Felucca fork: a music toy for kids with colour-coded notes.
 - [GHOULBOX](https://github.com/jasonpersinger/ghoulbox-fm1-dungeon-synth) - Dungeon synth with drones and a hurdy-gurdy crank.
 - [ChoralRoot](https://github.com/Quixotic7/ChoralRootFM1) - Chord instrument with strum, arpeggio and pattern modes.
-- [CHOPPAH](https://github.com/profikid/fm1-break-choppah) - Breakbeat chopper for the M-VAVE FM-1: eight Amen-family breaks in flash, sixteen slices per break, and a four-slot FX chain (filter, bit crusher, drive, transient shaper) plus reverb, delay and a mix bus. MPL-2.0, built on fm1-base.
+- [CHOPPAH](https://github.com/profikid/fm1-break-choppah) - Amen break chopper with eight breaks, sixteen slices each, and a four-slot FX chain.
 - [Polly](https://github.com/charlesvestal/fm1-polly) - QY70-style arranger: a General MIDI band follows the chords you play.
 - [winampFM](https://github.com/hericdk/winampFM) - Synth groovebox in the look of Winamp 2.x, based on SLOOP.
 - [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative firmware with twelve engines, Biomes, user banks and a browser instrument and editor.
