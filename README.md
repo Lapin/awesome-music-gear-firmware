@@ -335,7 +335,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Intellijel
 
-- [Seal Eggs](https://github.com/thisisbribery/SealEggs_v1) - Browser tool that adds reverse, doppler, granular and tone mods to your own Sealegs 1.3.5.0 firmware.
+- [Seal Eggs](https://github.com/thisisbribery/SealEggs_v1) - Browser tool that adds reverse, doppler, granular, micro-loop and tone mods to your own Sealegs 1.3.5.0 firmware.
 
 ## Korg
 
