@@ -6,7 +6,7 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 
 ### Added
 
-- [CHOPPAH](https://github.com/profikid/fm1-break-choppah) - Breakbeat chopper for the M-VAVE FM-1: eight Amen-family breaks in flash, sixteen slices per break, and a four-slot FX chain (filter, bit crusher, drive, transient shaper) plus reverb, delay and a mix bus. MPL-2.0, built on fm1-base. (M-VAVE > FM-1)
+- [CHOPPAH](https://github.com/profikid/fm1-break-choppah) - Amen break chopper with eight breaks, sixteen slices each, and a four-slot FX chain. (M-VAVE > FM-1)
 
 ### Changed
 
