@@ -10,6 +10,11 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 - [Big Beat Studio BB-BOB](https://thebigbeat.app/bb-bob/about/) (external) - Replacement FM-1 firmware with a Western swing tune generator and live controls for steel solos, fills and section changes. (M-VAVE > FM-1)
 - [Compás 1.0](https://thebigbeat.app/compas/) (external) - FM-1 rhythm section for cumbia, salsa, merengue and bolero, with live section cues and TR-727 percussion. (M-VAVE > FM-1)
 
+### Removed
+
+- [Digidrum](https://github.com/soejrd/digidrum) - Machinedrum machines, starting with TRX. Mk1. (Elektron > Digitakt)
+- [octamachine](https://github.com/repeat98/octamachine) - Research toward running the Machinedrum OS on the Octatrack. (Elektron > Octatrack)
+
 ## 2026-11-06
 
 ### Added
