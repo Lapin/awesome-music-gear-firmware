@@ -6,8 +6,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [Ableton](#ableton)
   - [Move](#move)
-  - [Push 3 Standalone](#push-3-standalone)
   - [Push 2 and Push 3 Controller](#push-2-and-push-3-controller)
+  - [Push 3 Standalone](#push-3-standalone)
 - [Akai](#akai)
   - [MPC Live, One, X, Key and Force](#mpc-live-one-x-key-and-force)
   - [MPC500](#mpc500)
@@ -26,7 +26,9 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Elektron](#elektron)
   - [Analog Rytm](#analog-rytm)
   - [Digitakt](#digitakt)
+  - [Digitakt II](#digitakt-ii)
   - [Digitone](#digitone)
+  - [Digitone II](#digitone-ii)
   - [Machinedrum](#machinedrum)
   - [Model:Cycles](#modelcycles)
   - [Monomachine](#monomachine)
@@ -37,9 +39,9 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Intellijel](#intellijel)
 - [Korg](#korg)
   - [logue SDK devices](#logue-sdk-devices)
-  - [Volca](#volca)
   - [Prophecy](#prophecy)
   - [SQ-64](#sq-64)
+  - [Volca](#volca)
 - [M-VAVE](#m-vave)
   - [FM-1](#fm-1)
   - [SMK-37](#smk-37)
@@ -52,11 +54,12 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [Launchpad](#launchpad)
 - [Polyend](#polyend)
 - [Roland](#roland)
-  - [SP-404MKII](#sp-404mkii)
-  - [SP-404, SP-404SX and SP-404A](#sp-404-sp-404sx-and-sp-404a)
   - [AIRA Compact](#aira-compact)
+  - [AIRA Modular](#aira-modular)
   - [Boutique](#boutique)
   - [MC-101 and MC-707](#mc-101-and-mc-707)
+  - [SP-404, SP-404SX and SP-404A](#sp-404-sp-404sx-and-sp-404a)
+  - [SP-404MKII](#sp-404mkii)
   - [TR-8S](#tr-8s)
 - [Rossum Electro-Music](#rossum-electro-music)
   - [SP-1200](#sp-1200)
@@ -86,38 +89,23 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Schwung installer](https://github.com/charlesvestal/schwung-installer) - Installer for Schwung.
 - [Schwung catalog](https://github.com/charlesvestal/schwung-catalog-site) - Browsable catalog of Schwung modules.
 - [Move Anything](https://github.com/bobbydigitales/move-anything) - The original framework for running your own code on the Move.
-- [extending-move](https://github.com/charlesvestal/extending-move) - On-device web server for set restore, preset editing and kit generation.
-- [schwung-rnbo](https://github.com/charlesvestal/schwung-rnbo) - Run Max RNBO exports on the Move.
 - [Movy](https://github.com/DimaDake/schwung-movy) - Elektron-style knob UI and 16-track step sequencer.
 - [dAVEBOx](https://github.com/legsmechanical/dbxhost) - 8-track MIDI sequencer with a browser editor.
 - [Taktile](https://github.com/taktonmusic/Taktile) - 16-track groovebox module.
-- [Moveforge](https://github.com/m-dwyer/moveforge) - Build Schwung modules in C or Faust, with browser preview.
+- [schwung-rnbo](https://github.com/charlesvestal/schwung-rnbo) - Run Max RNBO exports on the Move.
+- [schwung-organelle](https://github.com/charlesvestal/schwung-organelle) - Run Organelle Pure Data patches on the Move.
 - [schwung-jv880](https://github.com/charlesvestal/schwung-jv880) - JV-880 emulation module. Bring your own ROMs.
 - [schwung-monomodule](https://github.com/legsmechanical/schwung-monomodule) - Monomachine emulation module.
-- [ableton-move-lab](https://github.com/simoianni/ableton-move-lab) - Run the Move software in Docker or on a Raspberry Pi 4.
-- [ableton-move-hacks](https://github.com/possan/ableton-move-hacks) - Notes on SSH access and the hardware buses.
-- [move-set-manager](https://github.com/Vratislav/move-set-manager) - Set manager.
 - [schwung-303](https://github.com/charlesvestal/schwung-303) - TB-303 emulation with Devilfish mods and neural overdrive.
 - [9W9](https://github.com/athousanddetails/schwung-9W9) - 909 drum module.
-- [schwung-organelle](https://github.com/charlesvestal/schwung-organelle) - Run Organelle Pure Data patches on the Move.
 - [M8 LPP Emulator](https://github.com/chaolue/schwung-m8) - Use the Move as an M8 controller.
 - [Schwung-Eloquence](https://github.com/Simon818/schwung-eloquence) - Eloquence voice for the Schwung screen reader.
+- [extending-move](https://github.com/charlesvestal/extending-move) - On-device web server for set restore, preset editing and kit generation.
+- [Moveforge](https://github.com/m-dwyer/moveforge) - Build Schwung modules in C or Faust, with browser preview.
+- [move-set-manager](https://github.com/Vratislav/move-set-manager) - Set manager.
 - [schwung-spi](https://github.com/charlesvestal/schwung-spi) - Library that intercepts the Move's link to its hardware.
-
-### Push 3 Standalone
-
-- [Push Hack](https://github.com/federico-pepe/ableton-push-hack) - Extensible hack framework, inspired by Schwung.
-- [push-hack-installer](https://github.com/federico-pepe/push-hack-installer) - Installer for Push Hack.
-- [push-dev-tools](https://github.com/JGuzak/push-dev-tools) - SSH setup, reverse engineering notes and kernel modules.
-- [push3-standalone-app-example](https://github.com/JGuzak/push3-standalone-app-example) - Example and dev container for AbletonOS apps.
-- [Tiny-Push-Utility](https://github.com/JGuzak/Tiny-Push-Utility) - Manage third-party apps.
-- [puxenia](https://github.com/Szphynx/puxenia) - Waldorf XT and Monomachine emulations, through Push Hack.
-- [push-hack-braids](https://github.com/federico-pepe/push-hack-braids) - Standalone Braids synth.
-- [push-hack-audio-loopback](https://github.com/federico-pepe/push-hack-audio-loopback) - Send audio from other processes into Live.
-- [push-hack-keyboard-visualizer](https://github.com/federico-pepe/push-hack-keyboard-visualizer) - Piano keyboard on the Push screen, from the notes Live sounds.
-- [push-hack-automation](https://github.com/federico-pepe/push-hack-automation) - LFO-style MIDI CC automation sequencer.
-- [push-mixxx-mode](https://github.com/itsrave/push-mixxx-mode) - DJ with Mixxx on the Push, with two decks and a skin on the Push screen.
-- [push-random-preset](https://github.com/itsrave/push-random-preset) - Shift chords that load a random preset or drum kit on the selected track.
+- [ableton-move-lab](https://github.com/simoianni/ableton-move-lab) - Run the Move software in Docker or on a Raspberry Pi 4.
+- [ableton-move-hacks](https://github.com/possan/ableton-move-hacks) - Notes on SSH access and the hardware buses.
 
 ### Push 2 and Push 3 Controller
 
@@ -126,28 +114,43 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [pta-module-gridseq](https://github.com/federico-pepe/pta-module-gridseq) - GridSeq: multitrack step sequencer module.
 - [pta-module-knobs](https://github.com/federico-pepe/pta-module-knobs) - Node.js process module example.
 
+### Push 3 Standalone
+
+- [Push Hack](https://github.com/federico-pepe/ableton-push-hack) - Extensible hack framework, inspired by Schwung.
+- [push-hack-installer](https://github.com/federico-pepe/push-hack-installer) - Installer for Push Hack.
+- [puxenia](https://github.com/Szphynx/puxenia) - Waldorf XT and Monomachine emulations, through Push Hack.
+- [push-hack-braids](https://github.com/federico-pepe/push-hack-braids) - Standalone Braids synth.
+- [push-hack-audio-loopback](https://github.com/federico-pepe/push-hack-audio-loopback) - Send audio from other processes into Live.
+- [push-hack-keyboard-visualizer](https://github.com/federico-pepe/push-hack-keyboard-visualizer) - Piano keyboard on the Push screen, from the notes Live sounds.
+- [push-hack-automation](https://github.com/federico-pepe/push-hack-automation) - LFO-style MIDI CC automation sequencer.
+- [push-mixxx-mode](https://github.com/itsrave/push-mixxx-mode) - DJ with Mixxx on the Push, with two decks and a skin on the Push screen.
+- [push-random-preset](https://github.com/itsrave/push-random-preset) - Shift chords that load a random preset or drum kit on the selected track.
+- [Tiny-Push-Utility](https://github.com/JGuzak/Tiny-Push-Utility) - Manage third-party apps.
+- [push3-standalone-app-example](https://github.com/JGuzak/push3-standalone-app-example) - Example and dev container for AbletonOS apps.
+- [push-dev-tools](https://github.com/JGuzak/push-dev-tools) - SSH setup, reverse engineering notes and kernel modules.
+
 ## Akai
 
 ### MPC Live, One, X, Key and Force
 
 - [MPC-LiveXplore](https://github.com/TheKikGen/MPC-LiveXplore) - SSH and bootstrap images, hacks and a wiki for MPC and Force units.
-- [MockbaMod](https://github.com/MockbaTheBorg/MockbaMod) - Force mod that runs on the factory firmware, with add-ons and apps from the SD card.
-- [MPC-Force-SSH-Firmwares](https://github.com/bonsaipanda/MPC-Force-SSH-Firmwares) - Official MPC and Force firmware with SSH and mouse control enabled.
-- [MPCLiveXplore-libs](https://github.com/TheKikGen/MPCLiveXplore-libs) - Libraries for modded units, including a MIDI and button remapper.
 - [MPC-LiveXplore-bootstrap](https://github.com/TheKikGen/MPC-LiveXplore-bootstrap) - Boot-time customisation scripts from SD card.
+- [MPCLiveXplore-libs](https://github.com/TheKikGen/MPCLiveXplore-libs) - Libraries for modded units, including a MIDI and button remapper.
+- [MPC-Force-SSH-Firmwares](https://github.com/bonsaipanda/MPC-Force-SSH-Firmwares) - Official MPC and Force firmware with SSH and mouse control enabled.
+- [MockbaMod](https://github.com/MockbaTheBorg/MockbaMod) - Force mod that runs on the factory firmware, with add-ons and apps from the SD card.
+- [Granola OpenMPC](https://github.com/nzimas/granola-openmpc) - Boot an MPC One straight into a granular synth.
 - [akai_standalone_remap](https://github.com/mmiroshnikov/akai_standalone_remap) - Remap buttons with double taps, long presses and Shift layers.
 - [mpc-vst-plugins](https://github.com/sd88me/mpc-vst-plugins) - Catalog and tooling for native VST2 plugins on MPC OS.
-- [mpc-vst-machinedrum](https://github.com/sd88me/mpc-vst-machinedrum) - Machinedrum engine as a native plugin.
-- [Granola OpenMPC](https://github.com/nzimas/granola-openmpc) - Boot an MPC One straight into a granular synth.
-- [Forcemodding](https://github.com/steven-law/Forcemodding) - How to cross-compile your own apps for the Force.
-- [MPC-One-Control-Mode-MIDI-Protocol](https://github.com/bcrowe306/MPC-One-Control-Mode-MIDI-Protocol) - Control mode MIDI protocol notes.
-- [MPCProjectManager](https://github.com/frankvonwelt/MPCProjectManager) - Project file manager.
 - [Plugin Manager](https://github.com/poloq-instruments/mpc-vst-manager) - Install, update and remove plugins from the MPC screen.
+- [mpc-vst-machinedrum](https://github.com/sd88me/mpc-vst-machinedrum) - Machinedrum engine as a native plugin.
 - [mpc-vst-monomodule](https://github.com/sd88me/mpc-vst-monomodule) - Monomachine emulation as a native plugin.
 - [mpc-vst-jv880](https://github.com/sd88me/mpc-vst-jv880) - JV-880 emulation as a native plugin. Bring your own ROMs.
 - [LXRXXL](https://github.com/sunskiefer/LXR02XXL) - Sonic Potions LXR drum engine as a native plugin.
 - [Tributary](https://github.com/stampman3000-jpg/mpc-tributary) - Play Elektron Overbridge audio on an MPC track over USB.
 - [Force Link Audio](https://github.com/macdigi/force-link-audio) - Stream Force audio over the network as a Link Audio channel.
+- [MPCProjectManager](https://github.com/frankvonwelt/MPCProjectManager) - Project file manager.
+- [Forcemodding](https://github.com/steven-law/Forcemodding) - How to cross-compile your own apps for the Force.
+- [MPC-One-Control-Mode-MIDI-Protocol](https://github.com/bcrowe306/MPC-One-Control-Mode-MIDI-Protocol) - Control mode MIDI protocol notes.
 
 ### MPC500
 
@@ -161,11 +164,11 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### MPC2000 and MPC2000XL
 
 - [mpc2000_2000xl_mod_pack](https://github.com/dariuszchynek/mpc2000_2000xl_mod_pack) - Eight firmware mods: tune range, transpose, mute groups, folders and more.
-- [vmpc-juce](https://github.com/izzyreal/vmpc-juce) - MPC2000XL emulator as standalone and plugin.
-- [mpc2000xl-emulator](https://github.com/dariuszchynek/mpc2000xl-emulator) - MAME-based emulator that boots your own OS file.
 - [akaifat](https://github.com/izzyreal/akaifat) - Library for Akai FAT disks.
 - [pyMPC2000xl](https://github.com/maseology/pyMPC2000xl) - Read and write .PGM and .SND files.
 - [mpc-2000-floppy-extractor](https://github.com/p3r7/mpc-2000-floppy-extractor) - Extract files from floppies.
+- [vmpc-juce](https://github.com/izzyreal/vmpc-juce) - MPC2000XL emulator as standalone and plugin.
+- [mpc2000xl-emulator](https://github.com/dariuszchynek/mpc2000xl-emulator) - MAME-based emulator that boots your own OS file.
 
 ### MPC3000
 
@@ -175,15 +178,15 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### BeatStep and BeatStep Pro
 
-- [beatstep-analysis](https://github.com/konsumer/beatstep-analysis) - Early work toward custom BeatStep firmware.
 - [beatstep-cli](https://github.com/konsumer/beatstep-cli) - Control the BeatStep over SysEx.
 - [beatstep-pro-handler](https://github.com/jamisonx-dev/beatstep-pro-handler) - Read and write every BeatStep Pro setting over SysEx.
+- [beatstep-analysis](https://github.com/konsumer/beatstep-analysis) - Early work toward custom BeatStep firmware.
 
 ### KeyStep and KeyStep Pro
 
 - [keystep37-research](https://github.com/rndpatch/keystep37-research) - Firmware research and patch tools, with an extra generator mode.
-- [keystep37-mod-1-public](https://github.com/jim-bitbot/keystep37-mod-1-public) - Firmware reverse engineering notes.
 - [KeyStepProPlus](https://github.com/bauerc/KeyStepProPlus) - Convert KeyStep Pro projects to and from MIDI.
+- [keystep37-mod-1-public](https://github.com/jim-bitbot/keystep37-mod-1-public) - Firmware reverse engineering notes.
 
 ### MicroBrute and MiniBrute
 
@@ -193,18 +196,18 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### MicroFreak and MiniFreak
 
 - [FreakSwap](https://github.com/doriamxyz/FreakSwap) - Swap a MicroFreak engine for a Plaits-derived one.
-- [freakout](https://github.com/kmorrill/freakout) - Preset, wavetable and sample tools over USB.
-- [microfreak-reverse](https://github.com/francoisgeorgy/microfreak-reverse) - SysEx reverse engineering notes.
-- [managefreak](https://github.com/GiovanniBitbyBit/managefreak) - Preset manager.
-- [minifreak_sample_conv](https://github.com/mtizim/minifreak_sample_conv) - Load your own samples on the MiniFreak.
 - [SuperFreaker](https://freakierfirmware.com/microfreak/) (external) - Patcher that adds effects, controls and shortcuts to your own firmware.
 - [freakpatch](https://github.com/ThisFreakDoesntExist/ThisFirmwareDoesNotExist) - Patch your own MicroFreak update file, with firmware notes.
+- [freakout](https://github.com/kmorrill/freakout) - Preset, wavetable and sample tools over USB.
+- [managefreak](https://github.com/GiovanniBitbyBit/managefreak) - Preset manager.
+- [minifreak_sample_conv](https://github.com/mtizim/minifreak_sample_conv) - Load your own samples on the MiniFreak.
+- [microfreak-reverse](https://github.com/francoisgeorgy/microfreak-reverse) - SysEx reverse engineering notes.
 
 ## Behringer
 
 - [Neutron alternate firmware](https://github.com/mrf-r/Neutron) - Replacement firmware with poly LFO, hard sync and waveshaping. Abandoned.
+- [RD-6 Scatter](https://github.com/tracelistener/rd6-scatter) - RD-6 firmware with live Roll, Ratchet, Slice and Cut effects and playback directions, with a browser updater. Experimental.
 - [ConfiguratorModelD](https://github.com/masc4ii/ConfiguratorModelD) - Change the Model D's hidden settings.
-- [RD-6 Scatter](https://github.com/tracelistener/rd6-scatter) - RD-6 firmware with live Roll, Ratchet, Slice and Cut effects, playback directions and a mute and roll mode, installed from a browser updater. Experimental.
 
 ## Casio
 
@@ -227,66 +230,72 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [elekloader](https://github.com/elekloader/elekloader) - Mod loader that builds a custom OS from your stock OS. Most current Elektron devices.
 - [elekloader Mod Shop](https://elekloader.github.io/shop/) (external) - Browser catalog that builds a custom OS from the mods you pick and your own stock OS file.
+- [Modwerk](https://github.com/repeat98/modwerk) - Module SDK and web builder for firmware mods, starting with the Octatrack.
 - [elektron-firmware-tool](https://github.com/mischa85/elektron-firmware-tool) - Inspect, verify and rebuild OS .syx containers.
 - [Elektroid](https://github.com/dagargo/elektroid) - Sample and SysEx manager for most Elektron devices.
 - [Overwitch](https://github.com/dagargo/overwitch) - Multitrack Overbridge audio on Linux.
-- [Modwerk](https://github.com/repeat98/modwerk) - Module SDK and web builder for firmware mods, starting with the Octatrack.
 - [ghidra-dsp56300](https://github.com/roblg/ghidra-dsp56300) - Ghidra module for the DSP56300 used in several Elektron devices.
 
 ### Analog Rytm
 
 - [rytm1_mods](https://github.com/gdeo607/rytm1_mods) - Per-track low and high cut, euclid accents, velocity humanise. MK1.
+- [Chopshop](https://github.com/bandersong/chopshop) - Browser firmware builder for Rytm and Analog Keys mods, including a chop mode.
+- [Sidecar](https://github.com/trigcondition/sidecar-expander) - Voice and effects expander on a Raspberry Pi 4 or 5, with OS mods that control it from the Rytm. MKII.
+- [rytm-mods-src](https://github.com/ConnorWay32/rytm-mods-src) - Source for MrScruff's firmware mods. MKII.
 - [rytm-builder](https://github.com/stampman3000-jpg/rytm-builder) - Build projects from pattern and kit sysex dumps.
 - [libanalogrytm](https://github.com/bsp2/libanalogrytm) - Read and write Analog Rytm sysex.
-- [Chopshop](https://github.com/bandersong/chopshop) - Browser firmware builder for Rytm and Analog Keys mods, including a chop mode.
-- [rytm-mods-src](https://github.com/ConnorWay32/rytm-mods-src) - Source for MrScruff's firmware mods. MKII.
 - [rytm-fw-re](https://github.com/ethernet8023/rytm-fw-re) - OS container, boot and display notes, plus a from-source firmware. MKII.
 - [analog-rytm-mkii-research](https://github.com/genosdk/analog-rytm-mkii-research) - Reverse engineering workspace with a QEMU machine. MKII.
-- [Sidecar](https://github.com/trigcondition/sidecar-expander) - Voice and effects expander on a Raspberry Pi 4 or 5, with OS mods that control it from the Rytm. MKII.
 
 ### Digitakt
 
-- [digisophie](https://github.com/soejrd/digisophie) - Four-mode percussive synth machine. Mk1.
-- [digistring](https://github.com/Alez22/digistring) - Karplus-Strong plucked string machine. Mk1.
-- [DigiFilter](https://github.com/DigiAlchemydsp/DigiFilter) - Extra filter modes: BP, BP2, COMB, TRASH. Mk1.
+- [digi1_mods](https://github.com/gdeo607/digi1_mods) - Synth machines, LFO matrix, scope, tuner, EQ and polyphony.
+- [digisophie](https://github.com/soejrd/digisophie) - Four-mode percussive synth machine.
+- [digistring](https://github.com/Alez22/digistring) - Karplus-Strong plucked string machine.
+- [DT-FM](https://github.com/mtalikka/DT-FM) - Four-operator FM machine.
+- [digigrain](https://github.com/lucykowal/digigrain) - Granular playback machine.
+- [digislicer](https://github.com/irpina/digislicer) - Slice machine with auto-slicing.
+- [digineighbor](https://github.com/irpina/digineighbor) - Neighbor machine that plays another track's audio.
+- [DigiFilter](https://github.com/DigiAlchemydsp/DigiFilter) - Extra filter modes: BP, BP2, COMB, TRASH.
+- [digirta](https://github.com/Alez22/digirta) - Octave-band analyzer.
+- [digihealth](https://github.com/irpina/digihealth) - Lower DSP load and a system info readout. Also Digitone.
+- [DigiCandy](https://github.com/DigiAlchemydsp/DigiCandy) - Full-screen image overlay on a key combo.
 - [DigiSplash](https://github.com/DigiAlchemydsp/DigiSplash) - Custom boot animations. Also Digitone.
-- [digiemu](https://github.com/irpina/digiemu) - Emulator that runs your own OS behind a clickable panel. Also Digitone.
-- [digikit](https://github.com/m-dwyer/digikit) - Emulator and analysis tools for Digitakt II and Digitone II.
-- [digitakt-ii-firmware-research](https://github.com/lalzart/digitakt-ii-firmware-research-public) - Architecture notes for Digitakt II.
-- [digi-roll](https://github.com/zooloo303/digi-roll) - Browser piano roll over SysEx. Digitakt II, Digitone II.
 - [screendump](https://github.com/jakobbak/screendump) - Capture the screen over MIDI.
-- [digi1_mods](https://github.com/gdeo607/digi1_mods) - Synth machines, LFO matrix, scope, tuner, EQ and polyphony. Mk1.
-- [digislicer](https://github.com/irpina/digislicer) - Slice machine with auto-slicing. Mk1.
-- [DT-FM](https://github.com/mtalikka/DT-FM) - Four-operator FM machine. Mk1.
-- [digigrain](https://github.com/lucykowal/digigrain) - Granular playback machine. Mk1.
-- [digineighbor](https://github.com/irpina/digineighbor) - Neighbor machine that plays another track's audio. Mk1.
-- [digihealth](https://github.com/irpina/digihealth) - Lower DSP load and a system info readout. Mk1, also Digitone.
-- [digirta](https://github.com/Alez22/digirta) - Octave-band analyzer. Mk1.
-- [DigiCandy](https://github.com/DigiAlchemydsp/DigiCandy) - Full-screen image overlay on a key combo. Mk1.
-- [digitakt2-perform](https://github.com/toonst/digitakt2-perform) - Faster perform kit toggle and kept track levels. Digitakt II.
-- [dt2-machine-lab](https://github.com/lalzart/dt2-machine-lab) - Build custom machines, including a Plaits port. Digitakt II.
-- [DigiSplash-II](https://github.com/Fadedlimes/digisplash-ii) - Custom boot animations. Digitakt II.
-- [Digitakt II All-in-One](https://github.com/karigardarsson/digitakt-ii-research) - Windows tool that builds a custom OS from your own 1.17 file, with 25 Plaits models, DX7 banks and wave zoom. Digitakt II. Beta.
+- [digiemu](https://github.com/irpina/digiemu) - Emulator that runs your own OS behind a clickable panel. Also Digitone.
+
+### Digitakt II
+
+- [Digitakt II All-in-One](https://github.com/karigardarsson/digitakt-ii-research) - Windows tool that builds a custom OS from your own 1.17 file, with 25 Plaits models, DX7 banks and wave zoom. Beta.
+- [dt2-machine-lab](https://github.com/lalzart/dt2-machine-lab) - Build custom machines, including a Plaits port.
+- [digitakt2-perform](https://github.com/toonst/digitakt2-perform) - Faster perform kit toggle and kept track levels.
+- [DigiSplash-II](https://github.com/Fadedlimes/digisplash-ii) - Custom boot animations.
+- [digi-roll](https://github.com/zooloo303/digi-roll) - Browser piano roll over SysEx. Also Digitone II.
+- [digikit](https://github.com/m-dwyer/digikit) - Emulator and analysis tools. Also Digitone II.
+- [digitakt-ii-firmware-research](https://github.com/lalzart/digitakt-ii-firmware-research-public) - Architecture notes.
 
 ### Digitone
 
-- [digitables](https://github.com/irpina/digitables) - M8-style pitch tables with an editor. Mk1.
-- [Tone+FX](https://github.com/DigiAlchemydsp/Tone-FX) - Master effects: ring mod, EQ, lo-fi, wavefolder. Mk1.
-- [DigiCosm](https://github.com/irpina/digicosm) - Microcosm-style effects for the inputs. Mk1.
-- [DigiChroma](https://github.com/irpina/digichroma) - Chroma Console-style effects for the inputs. Mk1.
-- [dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore) - OS mods such as a fourth LFO, new arp modes and LFO waves, applied in the browser, plus rebuild tools. Digitone II.
-- [dn2-cfw](https://github.com/naturarum/dn2-cfw) - Research and tools, with a flanger on the DSP. Digitone II.
-- [Overtone](https://github.com/complex-ping/overtone) - Patcher for OS 1.12: new machines (SOPHIE, MACHINEDRUM, LOOP, THRU), per-track inserts, GROOVE timing editor. Digitone II.
+- [digitables](https://github.com/irpina/digitables) - M8-style pitch tables with an editor.
+- [Tone+FX](https://github.com/DigiAlchemydsp/Tone-FX) - Master effects: ring mod, EQ, lo-fi, wavefolder.
+- [DigiCosm](https://github.com/irpina/digicosm) - Microcosm-style effects for the inputs.
+- [DigiChroma](https://github.com/irpina/digichroma) - Chroma Console-style effects for the inputs.
+
+### Digitone II
+
+- [Overtone](https://github.com/complex-ping/overtone) - Patcher for OS 1.12: new machines (SOPHIE, MACHINEDRUM, LOOP, THRU), per-track inserts, GROOVE timing editor.
+- [dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore) - OS mods such as a fourth LFO, new arp modes and LFO waves, applied in the browser, plus rebuild tools.
+- [dn2-cfw](https://github.com/naturarum/dn2-cfw) - Research and tools, with a flanger on the DSP.
 
 ### Machinedrum
 
 - [ems-machinedrum-firmware](https://github.com/emuyia/ems-machinedrum-firmware) - Per-track lengths, speeds and trig conditions.
 - [MCL](https://github.com/jmamma/MCL) - Firmware for the MegaCommand, a sequencer add-on built around the Machinedrum.
 - [Kitbasher](https://github.com/etcetc000/kitbasher) - Add new machines to the OS in the browser.
-- [Machinedrum Kit](https://github.com/janne808/machinedrum-kit) - Firmware format and DSP voice docs for building machines.
 - [MDS](https://github.com/jmamma/MDS) - Load custom machines into MDX 2.0 over SysEx.
 - [murdenihcam USR machines](https://github.com/murdenihcam/murdenihcam-usr-machines) - Custom machines for MDX.
 - [gearmulator-md-mm](https://github.com/joelanders/gearmulator-md-mm) - Machinedrum and Monomachine emulation plugins. Bring your own OS.
+- [Machinedrum Kit](https://github.com/janne808/machinedrum-kit) - Firmware format and DSP voice docs for building machines.
 
 ### Model:Cycles
 
@@ -306,25 +315,25 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [octabam](https://github.com/sambanks/octabam) - DSP effects, sequencer and MIDI mods in one build.
 - [octa-panel](https://github.com/timhastie/octa-panel) - Paraphonic FM machine and scale quantizer, built on octabam.
+- [Octatrick](https://github.com/timhastie/octatrick) - FM machine, scale quantizer, tuner, USB MIDI and USB audio.
 - [ems-octakit](https://github.com/LyingDalai/ems-octakit) - 256 kits per project instead of 4 parts per bank.
 - [octatrack-kyoti-fw](https://github.com/Zac-Kyoti/octatrack-kyoti-fw) - Sidechain compressor, direct jump and repitch modes.
 - [midisc](https://github.com/bkkbrls-del/midisc) - MIDI scene locks.
-- [OCTAMAX](https://github.com/mxldyn/octamax) - Reverse engineering toolkit with optional patches.
-- [octemu](https://github.com/markandrus/octemu) - Emulator for developing firmware mods.
+- [midisc-patcher](https://github.com/bkkbrls-del/midisc-patcher) - Browser patcher for midisc.
+- [Octaplay](https://github.com/devilfish707/Octaplay) - Reverse, pingpong, random and shuffle playhead modes.
+- [PassOS](https://github.com/theremoteviewer/octa-passos) - Scale system and a STOP guard. MK1.
 - [octatrack-manager](https://github.com/davidferlay/octatrack-manager) - Desktop app for projects and samples.
 - [OctaChainer](https://github.com/KaiDrange/OctaChainer) - Chain samples into one file with slices.
-- [Octatrick](https://github.com/timhastie/octatrick) - FM machine, scale quantizer, tuner, USB MIDI and USB audio.
-- [PassOS](https://github.com/theremoteviewer/octa-passos) - Scale system and a STOP guard. MK1.
-- [Octaplay](https://github.com/devilfish707/Octaplay) - Reverse, pingpong, random and shuffle playhead modes.
-- [midisc-patcher](https://github.com/bkkbrls-del/midisc-patcher) - Browser patcher for midisc.
+- [octemu](https://github.com/markandrus/octemu) - Emulator for developing firmware mods.
+- [OCTAMAX](https://github.com/mxldyn/octamax) - Reverse engineering toolkit with optional patches.
 
 ### Syntakt
 
 - [SyntHack OS](https://github.com/Angelo-politek/Synthack-OS) - Modular Syntakt firmware patches adding a master compressor, beat repeat, extra send effects and readable parameter values.
-- [syntakt-firmware-workbench](https://github.com/Bezronczek/syntakt-firmware-workbench) - Put your own waveforms into SY CHORD.
 - [Syntakt MAX](https://github.com/karigardarsson/Synthack-OS/releases/tag/syntakt-max-v1.0) - Windows tool that builds SyntHack OS plus a Deja Vu LFO and a 31-wave SY CHORD bank from your own 1.41 file. Experimental.
-- [sympakt](https://github.com/sinedied/sympakt) - Browser sample manager.
 - [Synfact](https://synfact.app) (external) - Builds custom firmware and mods for the Syntakt from your own stock OS file.
+- [syntakt-firmware-workbench](https://github.com/Bezronczek/syntakt-firmware-workbench) - Put your own waveforms into SY CHORD.
+- [sympakt](https://github.com/sinedied/sympakt) - Browser sample manager.
 
 ## Erica Synths
 
@@ -348,6 +357,14 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [key4](https://github.com/bvontob/key4) - Polyphonic NTS-1 oscillator modelled on the Volca Keys.
 - [nts3-rs](https://github.com/fractalysis/nts3-rs) - Build NTS-3 effects in Rust.
 
+### Prophecy
+
+- [Profligacy](https://github.com/joelanders/profligacy) - Prophecy emulator. Bring your own ROMs.
+
+### SQ-64
+
+- [Korg-SQ-64-Emulator](https://github.com/aleph-void/Korg-SQ-64-Emulator) - Browser-based WebAssembly emulator for custom firmware. Bring your own firmware image.
+
 ### Volca
 
 - [hj Firmware](https://github.com/hj-oja/vdcf) - Trig conditions, ghost notes, longer swing and bug fixes for the Volca Drum. Modified Korg 1.14.
@@ -358,22 +375,13 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [volcafmpatchdecoder](https://github.com/pajen/volcafmpatchdecoder) - Convert Volca FM patch audio to SysEx.
 - [volca-keys-editor](https://github.com/rolodato/volca-keys-editor) - Web MIDI patch editor for the Volca Keys.
 
-### Prophecy
-
-- [Profligacy](https://github.com/joelanders/profligacy) - Prophecy emulator. Bring your own ROMs.
-
-### SQ-64
-
-- [Korg-SQ-64-Emulator](https://github.com/aleph-void/Korg-SQ-64-Emulator) - Browser-based WebAssembly emulator for custom firmware. Bring your own firmware image.
-
 ## M-VAVE
-
-- [FM-1 firmware catalog](https://fm1-editor.com/firmware/) (external) - Catalog of custom FM-1 firmwares, with installers and emulators.
-- [FM1 Manager](https://store.grandtree.art/FM1_Manager/) (external) - Browser installer for over 100 open source FM-1 firmwares, pulled from GitHub, over USB MIDI.
 
 ### FM-1
 
-- [FM1 Open](https://github.com/m-vave/fm1_open) - Official open source firmware and SDK from M-VAVE: eight tracks, six sound engines, GPLv3 with an SDK linking exception. The sound engine ships as a binary.
+- [FM-1 firmware catalog](https://fm1-editor.com/firmware/) (external) - Catalog of custom FM-1 firmwares, with installers and emulators.
+- [FM1 Manager](https://store.grandtree.art/FM1_Manager/) (external) - Browser installer for over 100 open source FM-1 firmwares, pulled from GitHub, over USB MIDI.
+- [FM1 Open](https://github.com/m-vave/fm1_open) - Official open source firmware and SDK: eight tracks and six sound engines. The sound engine ships as a binary.
 - [FM1 Workbench](https://open.m-vave.com/fm1-workbench) (external) - Official browser editor and flasher over USB MIDI, with a simulator and a way back to the stock firmware.
 - [Felucca](https://github.com/hugelton/Felucca) - Multi-engine synth firmware, and the base for many others.
 - [JIANT FM](https://github.com/juanjiant-bit/JIANT) - Felucca fork for live play and whole songs, with a browser emulator and installer.
@@ -397,14 +405,14 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Polly](https://github.com/charlesvestal/fm1-polly) - QY70-style arranger: a General MIDI band follows the chords you play.
 - [winampFM](https://github.com/hericdk/winampFM) - Synth groovebox in the look of Winamp 2.x, based on SLOOP.
 - [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative firmware with twelve engines, Biomes, user banks and a browser instrument and editor.
+- [Elixir](https://github.com/dmajka/elixir) - Erica Synths LXR-02 drum synth port.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
-- [Elixir](https://github.com/dmajka/elixir) - Erica Synths LXR-02 drum synth port.
 
 ### SMK-37
 
-- [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) (external) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
 - [SMK-37 firmwares](https://genkigenki.github.io/smk37/) (external) - Browser installer for the SMK-37 firmwares below, and the way back to the stock firmware.
+- [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) (external) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
 - [Makkuro37](https://github.com/genkigenki/Makkuro37) - Microtonal drone synth.
 - [Snoop37](https://github.com/genkigenki/sloop-fm1/tree/snoop37) - SLOOP port: four-track live groovebox.
 - [X0X for the SMK-37](https://github.com/genkigenki/fm1-x0x/tree/smk37) - X0X port: 909, 808 and two 303s.
@@ -445,15 +453,15 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### Circuit Tracks
 
 - [CIRCUITS-HACKS-RC](https://github.com/Ghillermo/CIRCUITS-HACKS-RC) - Firmware patches, tools and emulator.
-- [CircuitTracksReverseEngineering](https://github.com/userx14/CircuitTracksReverseEngineering) - Teardown, debug header and firmware analysis.
 - [ctpatch](https://github.com/martin-stone/ctpatch) - Read and write patches in Python.
+- [CircuitTracksReverseEngineering](https://github.com/userx14/CircuitTracksReverseEngineering) - Teardown, debug header and firmware analysis.
 
 ### Launchpad
 
 - [launchpad-pro](https://github.com/dvhdr/launchpad-pro) - Official open firmware API for the original Launchpad Pro.
 - [lpp-performance-cfw](https://github.com/mat1jaczyyy/lpp-performance-cfw) - Performance custom firmware for the Launchpad Pro.
-- [LP-Firmware-Utility](https://github.com/mat1jaczyyy/LP-Firmware-Utility) - Web tool to update and patch Launchpad firmware, with custom palettes.
 - [issho-launchpad-firmware](https://github.com/perkowitz/issho-launchpad-firmware) - Sequencer firmware for the Launchpad Pro.
+- [LP-Firmware-Utility](https://github.com/mat1jaczyyy/LP-Firmware-Utility) - Web tool to update and patch Launchpad firmware, with custom palettes.
 
 ## Polyend
 
@@ -465,27 +473,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Roland
 
-- [AIRA Switcher](https://github.com/tracelistener/aira-switcher) - Switch an AIRA Modular unit between Bitrazer, Demora, Torcido and Scooper.
-- [SYSTEM OSCILLATOR](https://github.com/tracelistener/aira-modular-system-osc) - Custom firmware that puts the SYSTEM-1m oscillator waves on the AIRA Modular Scooper and Demora.
 - [Roland-Structured-Storage](https://github.com/DrKnackeratorStrikesAgain/Roland-Structured-Storage) - Read and write ZEN-Core project files.
 - [OpenMK](https://github.com/keithadler/openmk) - MKS-20 and MK-80 piano emulator in the browser. Bring your own ROMs.
-
-### SP-404MKII
-
-- [DOOM OS](https://github.com/klangfeld-labs/doom-os) - Custom OS with a graphical sequencer, piano roll, mixer, effect automation and undo.
-- [DOOM OS MIDI Conductor](https://github.com/danielmcc123/doom-os-midi-conductor) - Send pads, knobs and steps out over MIDI.
-- [Tallfree](https://github.com/Mudb0y/tallfree) - Screen reader firmware that speaks menus, settings and sample names.
-- [dm-404](https://github.com/nickpetty/dm-404) - Emulator that runs your own firmware, with a VST3 bridge.
-- [open404](https://github.com/iare-digital/open404) - Toolkit and CLI for files and protocols.
-- [sp404mk2-tools](https://github.com/gsterlin/sp404mk2-tools) - File format tools.
-- [SparkyMK2](https://github.com/TuscanPL/SparkyMK2) - Replacement for the official app.
-- [doom-os-etc.](https://github.com/tracelistener/doom-os-etc.) - DOOM OS fork with a four-voice Sound Generator and an arpeggiator.
-
-### SP-404, SP-404SX and SP-404A
-
-- [Super Pads](https://github.com/MatthewCallis/super-pads) - Sample and pad manager.
-- [spEdit404](https://github.com/bobgonzalez/spEdit404) - Create and edit pattern files.
-- [ptn2midi](https://github.com/TylerOderkirk/ptn2midi) - Export patterns to MIDI.
 
 ### AIRA Compact
 
@@ -493,15 +482,37 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [S1Utility](https://github.com/denzlobin/S1Utility) - Editor and patch inspector for the S-1.
 - [aira_pattern_editor](https://github.com/natebosch/aira_pattern_editor) - Edit T-8 pattern backups.
 
+### AIRA Modular
+
+- [SYSTEM OSCILLATOR](https://github.com/tracelistener/aira-modular-system-osc) - Custom firmware that puts the SYSTEM-1m oscillator waves on the AIRA Modular Scooper and Demora.
+- [AIRA Switcher](https://github.com/tracelistener/aira-switcher) - Switch an AIRA Modular unit between Bitrazer, Demora, Torcido and Scooper.
+
 ### Boutique
 
 - [boutique-control](https://github.com/drewbharris/boutique-control) - Translate Boutique SysEx into CCs.
 
 ### MC-101 and MC-707
 
-- [mc101-firmware-re](https://github.com/soobrosa/mc101-firmware-re) - Firmware analysis and SysEx probe tools.
 - [mc-programmer](https://github.com/douglas-carmichael/mc-programmer) - Full SysEx control of sequencer, sounds and projects.
 - [mctools_sidechain](https://github.com/Locriana/mctools_sidechain) - Experimental sidechain over SysEx.
+- [mc101-firmware-re](https://github.com/soobrosa/mc101-firmware-re) - Firmware analysis and SysEx probe tools.
+
+### SP-404, SP-404SX and SP-404A
+
+- [Super Pads](https://github.com/MatthewCallis/super-pads) - Sample and pad manager.
+- [spEdit404](https://github.com/bobgonzalez/spEdit404) - Create and edit pattern files.
+- [ptn2midi](https://github.com/TylerOderkirk/ptn2midi) - Export patterns to MIDI.
+
+### SP-404MKII
+
+- [DOOM OS](https://github.com/klangfeld-labs/doom-os) - Custom OS with a graphical sequencer, piano roll, mixer, effect automation and undo.
+- [doom-os-etc.](https://github.com/tracelistener/doom-os-etc.) - DOOM OS fork with a four-voice Sound Generator and an arpeggiator.
+- [DOOM OS MIDI Conductor](https://github.com/danielmcc123/doom-os-midi-conductor) - Send pads, knobs and steps out over MIDI.
+- [Tallfree](https://github.com/Mudb0y/tallfree) - Screen reader firmware that speaks menus, settings and sample names.
+- [open404](https://github.com/iare-digital/open404) - Toolkit and CLI for files and protocols.
+- [sp404mk2-tools](https://github.com/gsterlin/sp404mk2-tools) - File format tools.
+- [SparkyMK2](https://github.com/TuscanPL/SparkyMK2) - Replacement for the official app.
+- [dm-404](https://github.com/nickpetty/dm-404) - Emulator that runs your own firmware, with a VST3 bridge.
 
 ### TR-8S
 
@@ -522,7 +533,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) - Open source community firmware for the Deluge.
 - [Deluge Community](https://delugecommunity.com/) (external) - Downloads, docs and developer guides.
-- [BRIBELUGE](https://github.com/thisisbribery/deluge-bribes-v1) - Community firmware fork with drum synth engines (LXR-02, Cycles style, GIN), a 303 voice, a mono sequencer, stumble swing and autofill. Experimental.
+- [BRIBELUGE](https://github.com/thisisbribery/deluge-bribes-v1) - Community firmware fork with drum synth engines, a 303 voice, a mono sequencer, stumble swing and autofill. Experimental.
 - [downrush](https://github.com/jamiefaye/downrush) - File manager and editors for Deluge content.
 - [delugemu](https://github.com/gramster/delugemu) - Deluge emulator that boots the community firmware.
 
@@ -532,11 +543,11 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### EP-133 K.O. II
 
-- [ep-series-sysex](https://github.com/kmorrill/ep-series-sysex) - SysEx protocol and project format docs. Also EP-40.
+- [ep-unity](https://github.com/seajaysec/ep-unity) - Cross-flash K.O. II and EP-40 firmware. Can brick the device.
 - [ep_133_sysex_thingy](https://github.com/garrettjwilke/ep_133_sysex_thingy) - Manage samples without the official tool.
 - [ep133-export-to-daw](https://github.com/phones24/ep133-export-to-daw) - Export projects to DAW formats and MIDI.
 - [ko2-io](https://github.com/trusch/ko2-io) - Sample I/O and a FUSE filesystem.
-- [ep-unity](https://github.com/seajaysec/ep-unity) - Cross-flash K.O. II and EP-40 firmware. Can brick the device.
+- [ep-series-sysex](https://github.com/kmorrill/ep-series-sysex) - SysEx protocol and project format docs. Also EP-40.
 
 ### OP-1 and OP-1 Field
 
@@ -546,28 +557,28 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [op1repacker](https://github.com/op1hacks/op1repacker) - Unpack, mod and repack firmware, with ready-made mods.
 - [op1REpackerGUI](https://github.com/epixjava/op1REpackerGUI) - GUI for op1repacker.
 - [op1-glitter](https://github.com/Nanobot567/op1-glitter) - Custom colour themes.
-- [op1hacks docs](https://github.com/op1hacks/docs) - Firmware and hardware research notes.
 - [op1-mod-registry](https://github.com/LizardMan245/op1-mod-registry) - Registry of the names and numbers each OP-1 mod adds, so mods and their sounds don't clash.
 - [te-op1](https://github.com/jstnfst/te-op1) - OP-1 Field patch format notes and tool.
 - [teoperator](https://github.com/schollz/teoperator) - Make OP-1 and OP-Z patches from any audio.
 - [op1.fun](https://op1.fun) (external) - Patch sharing site with a drum kit builder.
 - [op1emu](https://github.com/op1emu/op1emu) - Emulator for the original OP-1 that runs your own firmware.
+- [op1hacks docs](https://github.com/op1hacks/docs) - Firmware and hardware research notes.
 
 ### OP-XY
 
 - [Open-XY](https://github.com/etcetc000/open-xy) - SDK and browser builder that adds C++ synth and effect machines to your own stock OS. Experimental.
-- [OP-XY-MNMD](https://github.com/mmockett/OP-XY-MNMD) - Elektron Machinedrum and Monomachine engines written from scratch on the Open-XY SDK: four drum kits and the Monomachine machines as separate engines. Experimental.
-- [xy-format](https://github.com/kmorrill/xy-format) - Project format reverse engineering and tools.
+- [OP-XY-MNMD](https://github.com/mmockett/OP-XY-MNMD) - Machinedrum and Monomachine engines written from scratch on the Open-XY SDK. Experimental.
 - [op-xy-vibing](https://github.com/kmorrill/op-xy-vibing) - JSON loop editor that drives the OP-XY over MIDI.
 - [opxy-multisampler-preset-builder](https://github.com/sixthlaw/opxy-multisampler-preset-builder) - Build multisampler presets in the browser.
+- [xy-format](https://github.com/kmorrill/xy-format) - Project format reverse engineering and tools.
 
 ### OP-Z
 
 - [OP-FREE](https://github.com/mutlisensor/op-free) - Community synth and effect engines installed over USB as user plugs, with an SDK, a simulator and firmware research notes.
-- [op-z-sysex](https://github.com/kmorrill/op-z-sysex) - SysEx, state sync and file transfer docs.
 - [libopz](https://github.com/patriciogonzalezvivo/libopz) - Parse projects and talk to the OP-Z.
 - [underbridge](https://github.com/BKLronin/underbridge) - Export patterns as per-track audio.
 - [OP_Manager](https://github.com/adwuard/OP_Manager) - Raspberry Pi backup tool. Also OP-1.
+- [op-z-sysex](https://github.com/kmorrill/op-z-sysex) - SysEx, state sync and file transfer docs.
 
 ### Pocket Operators
 
@@ -578,10 +589,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### SP-1 Stem Player
 
 - [marisko](https://github.com/softmodded/marisko) - Community custom firmware.
-- [rome](https://github.com/jackiscool123123121/rome) - Flash firmware and manage stems over USB.
 - [SP-1 Tape Looper](https://github.com/chattock/sp1-tape-looper) - Four-track tape-style looper.
 - [Wakes](https://github.com/Worldwave/Wakes) - Synth firmware built from Plaits and Marbles.
 - [SP-1 Remote](https://github.com/mortenwagner/sp1-remote) - Four-fader MIDI controller firmware.
+- [rome](https://github.com/jackiscool123123121/rome) - Flash firmware and manage stems over USB.
 
 ## Torso
 
@@ -598,7 +609,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### LiveTrak L6
 
-- [zoom-l6-firmware](https://github.com/thade/zoom-l6-firmware) - Custom firmware that puts your last four takes on the sound pads for overdubbing and adds a switchable stereo AUX send, with a browser patcher. Original L6, not the L6max.
+- [zoom-l6-firmware](https://github.com/thade/zoom-l6-firmware) - Puts your last four takes on the sound pads for overdubbing and adds a switchable stereo AUX send, with a browser patcher. Not for the L6max.
 
 ### MultiStomp
 
@@ -610,18 +621,18 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ## 1010music
 
 - [blackbox-mod](https://github.com/j3threejay/blackbox-mod) - Solo, slicer controls, a ducker and chords for the Blackbox.
-- [bitboxctl](https://github.com/Preskton/bitboxctl) - Build Bitbox Micro presets.
 - [PocketRave Blackbox mod](https://github.com/pocketrave/blackbox) - New sequencer features for the original Blackbox.
 - [BlueLex](https://github.com/lexnels/bluelex-bluebox-euro) - CPU meter and a room reverb for the bluebox eurorack edition.
 - [bitbox-micro-fw-patch](https://github.com/modularpatcher/bitbox-micro-fw-patch) - Patcher that extends MIDI and adds new features to the Bitbox Micro.
 - [Bitbox MkII browser patcher](https://github.com/vwal/bitbox-mkii-patcher) - Browser patcher that adds workflow features to the Bitbox MkII.
+- [bitboxctl](https://github.com/Preskton/bitboxctl) - Build Bitbox Micro presets.
 
 ## Communities
 
-- [Hacktronauts](https://hacktronauts.com) - Forum for hacking, modding and building music hardware.
-- [Elektronmods](https://elektronmods.com) - Forum and catalog of Elektron mods.
-- [ElektronMods subreddit](https://reddit.com/r/elektronmods) - Subreddit for Elektron mods.
-- [lines](https://llllllll.co) - Forum for music, art and open source tools.
+- [Hacktronauts](https://hacktronauts.com) (external) - Forum for hacking, modding and building music hardware.
+- [Elektronmods](https://elektronmods.com) (external) - Forum and catalog of Elektron mods.
+- [ElektronMods subreddit](https://reddit.com/r/elektronmods) (external) - Subreddit for Elektron mods.
+- [lines](https://llllllll.co) (external) - Forum for music, art and open source tools.
 - [M-VAVE forum](https://forum.m-vave.com/) (external) - Official forum.
 
 ## Related lists
