@@ -241,6 +241,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [rytm-mods-src](https://github.com/ConnorWay32/rytm-mods-src) - Source for MrScruff's firmware mods. MKII.
 - [rytm-fw-re](https://github.com/ethernet8023/rytm-fw-re) - OS container, boot and display notes, plus a from-source firmware. MKII.
 - [analog-rytm-mkii-research](https://github.com/genosdk/analog-rytm-mkii-research) - Reverse engineering workspace with a QEMU machine. MKII.
+- [Sidecar](https://github.com/trigcondition/sidecar-expander) - Voice and effects expander on a Raspberry Pi 4 or 5, with OS mods that control it from the Rytm. MKII.
 
 ### Digitakt
 
