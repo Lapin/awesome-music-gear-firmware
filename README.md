@@ -241,6 +241,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [rytm-mods-src](https://github.com/ConnorWay32/rytm-mods-src) - Source for MrScruff's firmware mods. MKII.
 - [rytm-fw-re](https://github.com/ethernet8023/rytm-fw-re) - OS container, boot and display notes, plus a from-source firmware. MKII.
 - [analog-rytm-mkii-research](https://github.com/genosdk/analog-rytm-mkii-research) - Reverse engineering workspace with a QEMU machine. MKII.
+- [Sidecar](https://github.com/trigcondition/sidecar-expander) - Voice and effects expander on a Raspberry Pi 4 or 5, with OS mods that control it from the Rytm. MKII.
 
 ### Digitakt
 
@@ -335,7 +336,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Intellijel
 
-- [Seal Eggs](https://github.com/thisisbribery/SealEggs_v1) - Browser tool that adds reverse, doppler, granular and tone mods to your own Sealegs 1.3.5.0 firmware.
+- [Seal Eggs](https://github.com/thisisbribery/SealEggs_v1) - Browser tool that adds reverse, doppler, granular, micro-loop and tone mods to your own Sealegs 1.3.5.0 firmware.
 
 ## Korg
 
@@ -380,6 +381,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [SLOOP](https://github.com/isod89/sloop-fm1) - Four-track live groovebox.
 - [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two drum layers, acid bass, echo, spring reverb and a song arranger.
 - [Big Beat Studio BB-BOB](https://thebigbeat.app/bb-bob/about/) (external) - Replacement FM-1 firmware with a Western swing tune generator and live controls for steel solos, fills and section changes.
+- [Compás 1.0](https://thebigbeat.app/compas/) (external) - FM-1 rhythm section for cumbia, salsa, merengue and bolero, with live section cues and TR-727 percussion.
 - [Baud Girl FM-1+VA](https://baudgirl.com/work/FM-1+VA) (external) - Virtual analog engine with four knobs on every screen.
 - [Groove OS](https://www.groove-os.com/) (external) - Eight-track groovebox with effects on every track. Paid.
 - [X0X](https://github.com/charlesvestal/fm1-x0x) - 909, 808 and two 303s with a breakbeat generator and song mode.
@@ -392,6 +394,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Rainbow mode](https://github.com/joshbartlettband-web/felucca-rainbow) - Felucca fork: a music toy for kids with colour-coded notes.
 - [GHOULBOX](https://github.com/jasonpersinger/ghoulbox-fm1-dungeon-synth) - Dungeon synth with drones and a hurdy-gurdy crank.
 - [ChoralRoot](https://github.com/Quixotic7/ChoralRootFM1) - Chord instrument with strum, arpeggio and pattern modes.
+- [CHOPPAH](https://github.com/profikid/fm1-break-choppah) - Amen break chopper with eight breaks, sixteen slices each, and a four-slot FX chain.
 - [Polly](https://github.com/charlesvestal/fm1-polly) - QY70-style arranger: a General MIDI band follows the chords you play.
 - [winampFM](https://github.com/hericdk/winampFM) - Synth groovebox in the look of Winamp 2.x, based on SLOOP.
 - [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative firmware with twelve engines, Biomes, user banks and a browser instrument and editor.
