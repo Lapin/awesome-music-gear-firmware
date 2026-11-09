@@ -225,7 +225,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Elektron
 
-- [elekloader](https://github.com/irpina/elekloader) - Mod loader that builds a custom OS from your stock OS. Digitakt, Digitone, Octatrack.
+- [elekloader](https://github.com/elekloader/elekloader) - Mod loader that builds a custom OS from your stock OS. Most current Elektron devices.
+- [elekloader Mod Shop](https://elekloader.github.io/shop/) (external) - Browser catalog that builds a custom OS from the mods you pick and your own stock OS file.
 - [elektron-firmware-tool](https://github.com/mischa85/elektron-firmware-tool) - Inspect, verify and rebuild OS .syx containers.
 - [Elektroid](https://github.com/dagargo/elektroid) - Sample and SysEx manager for most Elektron devices.
 - [Overwitch](https://github.com/dagargo/overwitch) - Multitrack Overbridge audio on Linux.
