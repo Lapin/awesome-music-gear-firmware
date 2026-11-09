@@ -257,7 +257,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [digi1_mods](https://github.com/gdeo607/digi1_mods) - Synth machines, LFO matrix, scope, tuner, EQ and polyphony. Mk1.
 - [digislicer](https://github.com/irpina/digislicer) - Slice machine with auto-slicing. Mk1.
 - [DT-FM](https://github.com/mtalikka/DT-FM) - Four-operator FM machine. Mk1.
-- [Digidrum](https://github.com/soejrd/digidrum) - Machinedrum machines, starting with TRX. Mk1.
 - [digigrain](https://github.com/lucykowal/digigrain) - Granular playback machine. Mk1.
 - [digineighbor](https://github.com/irpina/digineighbor) - Neighbor machine that plays another track's audio. Mk1.
 - [digihealth](https://github.com/irpina/digihealth) - Lower DSP load and a system info readout. Mk1, also Digitone.
@@ -317,7 +316,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [PassOS](https://github.com/theremoteviewer/octa-passos) - Scale system and a STOP guard. MK1.
 - [Octaplay](https://github.com/devilfish707/Octaplay) - Reverse, pingpong, random and shuffle playhead modes.
 - [midisc-patcher](https://github.com/bkkbrls-del/midisc-patcher) - Browser patcher for midisc.
-- [octamachine](https://github.com/repeat98/octamachine) - Research toward running the Machinedrum OS on the Octatrack.
 
 ### Syntakt
 
