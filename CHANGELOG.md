@@ -2,6 +2,13 @@
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
 
+## 2026-11-09
+
+### Added
+
+- [Sidecar](https://github.com/trigcondition/sidecar-expander) - Voice and effects expander on a Raspberry Pi 4 or 5, with OS mods that control it from the Rytm. MKII. (Elektron > Analog Rytm)
+- [Compás 1.0](https://thebigbeat.app/compas/) (external) - FM-1 rhythm section for cumbia, salsa, merengue and bolero, with live section cues and TR-727 percussion. (M-VAVE > FM-1)
+
 ## 2026-11-06
 
 ### Added
