@@ -380,6 +380,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [JIANT FM](https://github.com/juanjiant-bit/JIANT) - Felucca fork for live play and whole songs, with a browser emulator and installer.
 - [SLOOP](https://github.com/isod89/sloop-fm1) - Four-track live groovebox.
 - [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two drum layers, acid bass, echo, spring reverb and a song arranger.
+- [Big Beat Studio BB-BOB](https://thebigbeat.app/bb-bob/about/) (external) - Replacement FM-1 firmware with a Western swing tune generator and live controls for steel solos, fills and section changes.
 - [Compás 1.0](https://thebigbeat.app/compas/) (external) - FM-1 rhythm section for cumbia, salsa, merengue and bolero, with live section cues and TR-727 percussion.
 - [Baud Girl FM-1+VA](https://baudgirl.com/work/FM-1+VA) (external) - Virtual analog engine with four knobs on every screen.
 - [Groove OS](https://www.groove-os.com/) (external) - Eight-track groovebox with effects on every track. Paid.
