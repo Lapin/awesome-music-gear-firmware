@@ -16,9 +16,50 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 - [Digidrum](https://github.com/soejrd/digidrum) - Machinedrum machines, starting with TRX. Mk1. (Elektron > Digitakt)
 - [octamachine](https://github.com/repeat98/octamachine) - Research toward running the Machinedrum OS on the Octatrack. (Elektron > Octatrack)
 
+### Moved
+
+- [Digitakt II All-in-One](https://github.com/karigardarsson/digitakt-ii-research) - Windows tool that builds a custom OS from your own 1.17 file, with 25 Plaits models, DX7 banks and wave zoom. Beta. (from Elektron > Digitakt to Elektron > Digitakt II, reworded)
+- [dt2-machine-lab](https://github.com/lalzart/dt2-machine-lab) - Build custom machines, including a Plaits port. (from Elektron > Digitakt to Elektron > Digitakt II, reworded)
+- [digitakt2-perform](https://github.com/toonst/digitakt2-perform) - Faster perform kit toggle and kept track levels. (from Elektron > Digitakt to Elektron > Digitakt II, reworded)
+- [DigiSplash-II](https://github.com/Fadedlimes/digisplash-ii) - Custom boot animations. (from Elektron > Digitakt to Elektron > Digitakt II, reworded)
+- [digi-roll](https://github.com/zooloo303/digi-roll) - Browser piano roll over SysEx. Also Digitone II. (from Elektron > Digitakt to Elektron > Digitakt II, reworded)
+- [digikit](https://github.com/m-dwyer/digikit) - Emulator and analysis tools. Also Digitone II. (from Elektron > Digitakt to Elektron > Digitakt II, reworded)
+- [digitakt-ii-firmware-research](https://github.com/lalzart/digitakt-ii-firmware-research-public) - Architecture notes. (from Elektron > Digitakt to Elektron > Digitakt II, reworded)
+- [Overtone](https://github.com/complex-ping/overtone) - Patcher for OS 1.12: new machines (SOPHIE, MACHINEDRUM, LOOP, THRU), per-track inserts, GROOVE timing editor. (from Elektron > Digitone to Elektron > Digitone II, reworded)
+- [dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore) - OS mods such as a fourth LFO, new arp modes and LFO waves, applied in the browser, plus rebuild tools. (from Elektron > Digitone to Elektron > Digitone II, reworded)
+- [dn2-cfw](https://github.com/naturarum/dn2-cfw) - Research and tools, with a flanger on the DSP. (from Elektron > Digitone to Elektron > Digitone II, reworded)
+- [FM-1 firmware catalog](https://fm1-editor.com/firmware/) (external) - Catalog of custom FM-1 firmwares, with installers and emulators. (from M-VAVE to M-VAVE > FM-1)
+- [FM1 Manager](https://store.grandtree.art/FM1_Manager/) (external) - Browser installer for over 100 open source FM-1 firmwares, pulled from GitHub, over USB MIDI. (from M-VAVE to M-VAVE > FM-1)
+- [SYSTEM OSCILLATOR](https://github.com/tracelistener/aira-modular-system-osc) - Custom firmware that puts the SYSTEM-1m oscillator waves on the AIRA Modular Scooper and Demora. (from Roland to Roland > AIRA Modular)
+- [AIRA Switcher](https://github.com/tracelistener/aira-switcher) - Switch an AIRA Modular unit between Bitrazer, Demora, Torcido and Scooper. (from Roland to Roland > AIRA Modular)
+
 ### Changed
 
+- [RD-6 Scatter](https://github.com/tracelistener/rd6-scatter) - RD-6 firmware with live Roll, Ratchet, Slice and Cut effects and playback directions, with a browser updater. Experimental. (Behringer)
 - [elekloader](https://github.com/elekloader/elekloader) - Mod loader that builds a custom OS from your stock OS. Most current Elektron devices. (Elektron, link updated)
+- [digi1_mods](https://github.com/gdeo607/digi1_mods) - Synth machines, LFO matrix, scope, tuner, EQ and polyphony. (Elektron > Digitakt)
+- [digisophie](https://github.com/soejrd/digisophie) - Four-mode percussive synth machine. (Elektron > Digitakt)
+- [digistring](https://github.com/Alez22/digistring) - Karplus-Strong plucked string machine. (Elektron > Digitakt)
+- [DT-FM](https://github.com/mtalikka/DT-FM) - Four-operator FM machine. (Elektron > Digitakt)
+- [digigrain](https://github.com/lucykowal/digigrain) - Granular playback machine. (Elektron > Digitakt)
+- [digislicer](https://github.com/irpina/digislicer) - Slice machine with auto-slicing. (Elektron > Digitakt)
+- [digineighbor](https://github.com/irpina/digineighbor) - Neighbor machine that plays another track's audio. (Elektron > Digitakt)
+- [DigiFilter](https://github.com/DigiAlchemydsp/DigiFilter) - Extra filter modes: BP, BP2, COMB, TRASH. (Elektron > Digitakt)
+- [digirta](https://github.com/Alez22/digirta) - Octave-band analyzer. (Elektron > Digitakt)
+- [digihealth](https://github.com/irpina/digihealth) - Lower DSP load and a system info readout. Also Digitone. (Elektron > Digitakt)
+- [DigiCandy](https://github.com/DigiAlchemydsp/DigiCandy) - Full-screen image overlay on a key combo. (Elektron > Digitakt)
+- [digitables](https://github.com/irpina/digitables) - M8-style pitch tables with an editor. (Elektron > Digitone)
+- [Tone+FX](https://github.com/DigiAlchemydsp/Tone-FX) - Master effects: ring mod, EQ, lo-fi, wavefolder. (Elektron > Digitone)
+- [DigiCosm](https://github.com/irpina/digicosm) - Microcosm-style effects for the inputs. (Elektron > Digitone)
+- [DigiChroma](https://github.com/irpina/digichroma) - Chroma Console-style effects for the inputs. (Elektron > Digitone)
+- [FM1 Open](https://github.com/m-vave/fm1_open) - Official open source firmware and SDK: eight tracks and six sound engines. The sound engine ships as a binary. (M-VAVE > FM-1)
+- [BRIBELUGE](https://github.com/thisisbribery/deluge-bribes-v1) - Community firmware fork with drum synth engines, a 303 voice, a mono sequencer, stumble swing and autofill. Experimental. (Synthstrom)
+- [OP-XY-MNMD](https://github.com/mmockett/OP-XY-MNMD) - Machinedrum and Monomachine engines written from scratch on the Open-XY SDK. Experimental. (Teenage Engineering > OP-XY)
+- [zoom-l6-firmware](https://github.com/thade/zoom-l6-firmware) - Puts your last four takes on the sound pads for overdubbing and adds a switchable stereo AUX send, with a browser patcher. Not for the L6max. (Zoom > LiveTrak L6)
+- [Hacktronauts](https://hacktronauts.com) (external) - Forum for hacking, modding and building music hardware. (Communities)
+- [Elektronmods](https://elektronmods.com) (external) - Forum and catalog of Elektron mods. (Communities)
+- [ElektronMods subreddit](https://reddit.com/r/elektronmods) (external) - Subreddit for Elektron mods. (Communities)
+- [lines](https://llllllll.co) (external) - Forum for music, art and open source tools. (Communities)
 
 ## 2026-11-06
 
