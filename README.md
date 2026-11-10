@@ -140,6 +140,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [mpc-vst-machinedrum](https://github.com/sd88me/mpc-vst-machinedrum) - Machinedrum engine as a native plugin.
 - [Granola OpenMPC](https://github.com/nzimas/granola-openmpc) - Boot an MPC One straight into a granular synth.
 - [Forcemodding](https://github.com/steven-law/Forcemodding) - How to cross-compile your own apps for the Force.
+- [az0x-open-source](https://github.com/inmusic-software/az0x-open-source) - Official GPL sources: patched kernel and libraries for MPC, Force and Engine OS units. Useful for matching toolchains.
 - [MPC-One-Control-Mode-MIDI-Protocol](https://github.com/bcrowe306/MPC-One-Control-Mode-MIDI-Protocol) - Control mode MIDI protocol notes.
 - [MPCProjectManager](https://github.com/frankvonwelt/MPCProjectManager) - Project file manager.
 - [Plugin Manager](https://github.com/poloq-instruments/mpc-vst-manager) - Install, update and remove plugins from the MPC screen.
