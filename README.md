@@ -412,7 +412,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### SMK-37
 
 - [SMK-37 firmwares](https://genkigenki.github.io/smk37/) (external) - Browser installer for the SMK-37 firmwares below, and the way back to the stock firmware.
-- [Big Beat Studio BB–37](https://github.com/TexasRADIO/smk37-elite-firmware) - SMK-37 Elite firmware with a 101-style synth, a 303-style synth, an 808 and pad-launched Band arrangements. GPL-3.0-only.
+- [Big Beat Studio BB–37](https://github.com/TexasRADIO/smk37-elite-firmware) - SMK-37 Pro, Elite and MKE-P37 firmware with a 101-style synth, a 303-style synth, an 808 and pad-launched Band arrangements. [Browser installer](https://thebigbeat.app/elite/install/) detects the model and selects its exact package. GPL-3.0-only.
 - [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) (external) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
 - [Makkuro37](https://github.com/genkigenki/Makkuro37) - Microtonal drone synth.
 - [Snoop37](https://github.com/genkigenki/sloop-fm1/tree/snoop37) - SLOOP port: four-track live groovebox.
