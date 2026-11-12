@@ -46,6 +46,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [FM-1](#fm-1)
   - [SMK-37](#smk-37)
 - [Making Sound Machines](#making-sound-machines)
+- [Modal Electronics](#modal-electronics)
 - [Moog](#moog)
 - [Mutable Instruments](#mutable-instruments)
 - [Novation](#novation)
@@ -431,6 +432,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [STOLPERBEATS ULTRA](https://github.com/thisisbribery/stolperbeats-ultra-v1) - Browser flasher that adds alt swing tables, ratchets, MIDI pitch per step and a fill mode to your own Stolperbeats 163 firmware.
 - [Stolperbeats Visualiser](https://github.com/thisisbribery/stolperbeats_v2) - Browser emulator that shows each Timing, edits pattern bank files and creates your own swing tables.
+
+## Modal Electronics
+
+- [all8](https://github.com/victorvillena/all8) - Collection of tools, including a patcher that builds the Iron firmware, a combination of all features in Carbon, Cobalt, and Argon.
 
 ## Moog
 
