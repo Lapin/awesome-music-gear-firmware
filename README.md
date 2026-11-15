@@ -642,6 +642,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [awesome-m8](https://github.com/v3rm0n/awesome-m8) - M8 headless clients, builds and tools.
 - [eurorack-awesome](https://github.com/newdigate/eurorack-awesome) - Eurorack resources.
 - [awesome-fm-1](https://github.com/cicloid/awesome-fm-1) - M-VAVE FM-1 firmware, tools and resources.
+- [No Stairs Please](https://nostairsplease.com/) (external) - Live music venue directory and MCP server for touring musicians and live sound prep.
 
 ## Contributing
 
