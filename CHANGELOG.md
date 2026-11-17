@@ -7,6 +7,9 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 ### Added
 
 - [M-Flasher](https://github.com/jvitkauskas/m-flasher) - Desktop app to back up, restore and install firmware and m-bootloader over USB, even when the firmware is broken. FM-1 (and Fame MiniFM) and SMK-37 Pro/Elite. (M-VAVE)
+- [Mewcoder](https://github.com/MiloMeowzers/sloop-smk37/tree/mewcoder) - SLOOP with a 20-channel vocoder after the Sennheiser VSM201 and two routed USB audio inputs, released for the Elite. (M-VAVE > SMK-37)
+- [SLOOP SMK-37](https://github.com/MiloMeowzers/sloop-smk37) - SLOOP with six USB audio stems to the DAW and punch-in effects on every stem. (M-VAVE > SMK-37)
+- [all8](https://github.com/victorvillena/all8) - Collection of tools, including a patcher that builds the Iron firmware, a combination of all features in Carbon, Cobalt, and Argon. (Modal Electronics)
 
 ### Removed
 
