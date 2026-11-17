@@ -377,6 +377,8 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## M-VAVE
 
+- [M-Flasher](https://github.com/jvitkauskas/m-flasher) - Desktop app to back up, restore and install firmware and m-bootloader over USB, even when the firmware is broken. FM-1 (and Fame MiniFM) and SMK-37 Pro/Elite.
+
 ### FM-1
 
 - [FM-1 firmware catalog](https://fm1-editor.com/firmware/) (external) - Catalog of custom FM-1 firmwares, with installers and emulators.
@@ -558,7 +560,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [op1REpackerGUI](https://github.com/epixjava/op1REpackerGUI) - GUI for op1repacker.
 - [op1-glitter](https://github.com/Nanobot567/op1-glitter) - Custom colour themes.
 - [op1-mod-registry](https://github.com/LizardMan245/op1-mod-registry) - Registry of the names and numbers each OP-1 mod adds, so mods and their sounds don't clash.
-- [te-op1](https://github.com/jstnfst/te-op1) - OP-1 Field patch format notes and tool.
 - [teoperator](https://github.com/schollz/teoperator) - Make OP-1 and OP-Z patches from any audio.
 - [op1.fun](https://op1.fun) (external) - Patch sharing site with a drum kit builder.
 - [op1emu](https://github.com/op1emu/op1emu) - Emulator for the original OP-1 that runs your own firmware.
