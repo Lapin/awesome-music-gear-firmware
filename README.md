@@ -76,7 +76,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Torso](#torso)
 - [Yamaha](#yamaha)
 - [Zoom](#zoom)
-  - [LiveTrak L6](#livetrak-l6)
+  - [LiveTrak L6 and L6max](#livetrak-l6-and-l6max)
   - [MultiStomp](#multistomp)
 - [1010music](#1010music)
 - [Communities](#communities)
@@ -615,9 +615,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Zoom
 
-### LiveTrak L6
+### LiveTrak L6 and L6max
 
 - [zoom-l6-firmware](https://github.com/thade/zoom-l6-firmware) - Puts your last four takes on the sound pads for overdubbing and adds a switchable stereo AUX send, with a browser patcher. Not for the L6max.
+- [zoom-l6-hacks](https://github.com/derekstavis/zoom-l6-hacks) - Patch-building toolkit with a GUI emulator and community-contributed patch catalog for both LiveTrak L6 and L6max.
 
 ### MultiStomp
 
