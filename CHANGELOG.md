@@ -2,6 +2,16 @@
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
 
+## 2026-11-17
+
+### Added
+
+- [M-Flasher](https://github.com/jvitkauskas/m-flasher) - Desktop app to back up, restore and install firmware and m-bootloader over USB, even when the firmware is broken. FM-1 (and Fame MiniFM) and SMK-37 Pro/Elite. (M-VAVE)
+
+### Removed
+
+- [te-op1](https://github.com/jstnfst/te-op1) - OP-1 Field patch format notes and tool. (Teenage Engineering > OP-1 and OP-1 Field)
+
 ## 2026-11-09
 
 ### Added
