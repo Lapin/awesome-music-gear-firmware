@@ -76,7 +76,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Torso](#torso)
 - [Yamaha](#yamaha)
 - [Zoom](#zoom)
-  - [LiveTrak L6 and L6max](#livetrak-l6-and-l6max)
+  - [LiveTrak L6](#livetrak-l6)
   - [MultiStomp](#multistomp)
 - [1010music](#1010music)
 - [Communities](#communities)
@@ -415,7 +415,6 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### SMK-37
 
 - [SMK-37 firmwares](https://genkigenki.github.io/smk37/) (external) - Browser installer for the SMK-37 firmwares below, and the way back to the stock firmware.
-- [Big Beat Studio BB–37](https://github.com/TexasRADIO/smk37-elite-firmware) - SMK-37 Pro, Elite and MKE-P37 firmware with a 101-style synth, a 303-style synth, an 808 and pad-launched Band arrangements. [Browser installer](https://thebigbeat.app/elite/install/) detects the model and selects its exact package. GPL-3.0-only.
 - [Baud Girl SMK-37+VA](https://baudgirl.com/work/SMK-37+VA) (external) - Virtual analog engine for the SMK-37 Pro, Elite and clones.
 - [Makkuro37](https://github.com/genkigenki/Makkuro37) - Microtonal drone synth.
 - [Snoop37](https://github.com/genkigenki/sloop-fm1/tree/snoop37) - SLOOP port: four-track live groovebox.
@@ -431,6 +430,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [winampFM for the SMK-37](https://github.com/genkigenki/winampFM/tree/smk37) - winampFM port: the loop on the pads in each track's colour.
 - [Mewcoder](https://github.com/MiloMeowzers/sloop-smk37/tree/mewcoder) - SLOOP with a 20-channel vocoder after the Sennheiser VSM201 and two routed USB audio inputs, released for the Elite.
 - [SLOOP SMK-37](https://github.com/MiloMeowzers/sloop-smk37) - SLOOP with six USB audio stems to the DAW and punch-in effects on every stem.
+- [Big Beat Studio BB-37](https://github.com/TexasRADIO/smk37-elite-firmware) - Firmware with a 101-style synth, a 303-style synth, a synthesized 808 and pad-launched arrangements, with a browser installer.
 - [fm1-to-smk37](https://github.com/genkigenki/fm1-to-smk37) - Guide and tools to port FM-1 firmwares to the SMK-37, and back.
 
 ## Making Sound Machines
@@ -440,7 +440,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Modal Electronics
 
-- [all8](https://github.com/victorvillena/all8) - Collection of tools, including a patcher that builds the Iron firmware, a combination of all features in Carbon, Cobalt, and Argon.
+- [all8](https://github.com/victorvillena/all8) - Firmware patchers for the Argon8, Cobalt8 and Carbon8, including Iron: Carbon8 firmware with the other two models' oscillators and filters and a 2-part multitimbral mode.
 
 ## Moog
 
@@ -616,10 +616,10 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Zoom
 
-### LiveTrak L6 and L6max
+### LiveTrak L6
 
 - [zoom-l6-firmware](https://github.com/thade/zoom-l6-firmware) - Puts your last four takes on the sound pads for overdubbing and adds a switchable stereo AUX send, with a browser patcher. Not for the L6max.
-- [zoom-l6-hacks](https://github.com/derekstavis/zoom-l6-hacks) - Patch-building toolkit with a GUI emulator and community-contributed patch catalog for both LiveTrak L6 and L6max.
+- [zoom-l6-hacks](https://github.com/derekstavis/zoom-l6-hacks) - Emulator that runs the stock firmware in a mixer UI, with a firmware unpacker and repacker, patches and a MIDI editor. Also L6max.
 
 ### MultiStomp
 
