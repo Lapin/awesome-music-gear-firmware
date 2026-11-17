@@ -7,13 +7,19 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 ### Added
 
 - [M-Flasher](https://github.com/jvitkauskas/m-flasher) - Desktop app to back up, restore and install firmware and m-bootloader over USB, even when the firmware is broken. FM-1 (and Fame MiniFM) and SMK-37 Pro/Elite. (M-VAVE)
+- [Big Beat Studio BB–37](https://github.com/TexasRADIO/smk37-elite-firmware) - SMK-37 Pro, Elite and MKE-P37 firmware with a 101-style synth, a 303-style synth, an 808 and pad-launched Band arrangements. [Browser installer](https://thebigbeat.app/elite/install/) detects the model and selects its exact package. GPL-3.0-only. (M-VAVE > SMK-37)
 - [Mewcoder](https://github.com/MiloMeowzers/sloop-smk37/tree/mewcoder) - SLOOP with a 20-channel vocoder after the Sennheiser VSM201 and two routed USB audio inputs, released for the Elite. (M-VAVE > SMK-37)
 - [SLOOP SMK-37](https://github.com/MiloMeowzers/sloop-smk37) - SLOOP with six USB audio stems to the DAW and punch-in effects on every stem. (M-VAVE > SMK-37)
 - [all8](https://github.com/victorvillena/all8) - Collection of tools, including a patcher that builds the Iron firmware, a combination of all features in Carbon, Cobalt, and Argon. (Modal Electronics)
+- [zoom-l6-hacks](https://github.com/derekstavis/zoom-l6-hacks) - Patch-building toolkit with a GUI emulator and community-contributed patch catalog for both LiveTrak L6 and L6max. (Zoom > LiveTrak L6 and L6max)
 
 ### Removed
 
 - [te-op1](https://github.com/jstnfst/te-op1) - OP-1 Field patch format notes and tool. (Teenage Engineering > OP-1 and OP-1 Field)
+
+### Moved
+
+- [zoom-l6-firmware](https://github.com/thade/zoom-l6-firmware) - Puts your last four takes on the sound pads for overdubbing and adds a switchable stereo AUX send, with a browser patcher. Not for the L6max. (from Zoom > LiveTrak L6 to Zoom > LiveTrak L6 and L6max)
 
 ## 2026-11-09
 
