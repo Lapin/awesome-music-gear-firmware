@@ -10,6 +10,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [Push 3 Standalone](#push-3-standalone)
 - [Akai](#akai)
   - [MPC Live, One, X, Key and Force](#mpc-live-one-x-key-and-force)
+  - [MPC Sample](#mpc-sample)
   - [MPC500](#mpc500)
   - [MPC1000 and MPC2500](#mpc1000-and-mpc2500)
   - [MPC2000 and MPC2000XL](#mpc2000-and-mpc2000xl)
@@ -44,6 +45,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
   - [Volca](#volca)
 - [M-VAVE](#m-vave)
   - [FM-1](#fm-1)
+  - [Pocket AMP](#pocket-amp)
   - [SMK-37](#smk-37)
 - [Making Sound Machines](#making-sound-machines)
 - [Modal Electronics](#modal-electronics)
@@ -152,6 +154,11 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [MPCProjectManager](https://github.com/frankvonwelt/MPCProjectManager) - Project file manager.
 - [Forcemodding](https://github.com/steven-law/Forcemodding) - How to cross-compile your own apps for the Force.
 - [MPC-One-Control-Mode-MIDI-Protocol](https://github.com/bcrowe306/MPC-One-Control-Mode-MIDI-Protocol) - Control mode MIDI protocol notes.
+
+### MPC Sample
+
+- [Melodee for the MPC Sample](https://github.com/keremimo/melodee-sample) - 16-track groovebox that runs from the SD card in place of the stock app, with a plug-in host, sampling, stem separation, a song mode and a looper.
+- [MPC Plaits](https://github.com/keremimo/mpc-vst-plaits) - Plaits as a plug-in for Melodee, with all 24 models, up to eight voices and a modulation matrix. Also modded MPC Live, One, X, Key and Force.
 
 ### MPC500
 
@@ -409,8 +416,14 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [winampFM](https://github.com/hericdk/winampFM) - Synth groovebox in the look of Winamp 2.x, based on SLOOP.
 - [Mutable Dreams](https://github.com/kidbee85-beep/mutable-dreams) - Six-track generative firmware with twelve engines, Biomes, user banks and a browser instrument and editor.
 - [Elixir](https://github.com/dmajka/elixir) - Erica Synths LXR-02 drum synth port.
+- [Melodee](https://github.com/keremimo/melodee) - Felucca-based synth and sequencer: four synth parts, four MIDI tracks and 64-section songs, with Bluetooth MIDI and a browser installer.
+- [Saadet](https://github.com/keremimo/saadet) - Two-part synth with six engines, from Prophet and FM6 to CZ-1, JUNO-106 and PPG, with Bluetooth MIDI and a browser editor. Also SMK-37, in beta.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
+
+### Pocket AMP
+
+- [Onyx](https://github.com/keremimo/melodee-fx) - Guitar multi-effects firmware with eight reorderable slots, NAM amp captures, cabinet IRs, a tuner and a drum machine. Also the Donner Pocket AMP. No releases yet.
 
 ### SMK-37
 
