@@ -2,6 +2,16 @@
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
 
+## 2026-11-18
+
+### Added
+
+- [Melodee for the MPC Sample](https://github.com/keremimo/melodee-sample) - 16-track groovebox that runs from the SD card in place of the stock app, with a plug-in host, sampling, stem separation, a song mode and a looper. (Akai > MPC Sample)
+- [MPC Plaits](https://github.com/keremimo/mpc-vst-plaits) - Plaits as a plug-in for Melodee, with all 24 models, up to eight voices and a modulation matrix. Also modded MPC Live, One, X, Key and Force. (Akai > MPC Sample)
+- [Melodee](https://github.com/keremimo/melodee) - Felucca-based synth and sequencer: four synth parts, four MIDI tracks and 64-section songs, with Bluetooth MIDI and a browser installer. (M-VAVE > FM-1)
+- [Saadet](https://github.com/keremimo/saadet) - Two-part synth with six engines, from Prophet and FM6 to CZ-1, JUNO-106 and PPG, with Bluetooth MIDI and a browser editor. Also SMK-37, in beta. (M-VAVE > FM-1)
+- [Onyx](https://github.com/keremimo/melodee-fx) - Guitar multi-effects firmware with eight reorderable slots, NAM amp captures, cabinet IRs, a tuner and a drum machine. Also the Donner Pocket AMP. No releases yet. (M-VAVE > Pocket AMP)
+
 ## 2026-11-17
 
 ### Added
