@@ -159,6 +159,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 - [Melodee for the MPC Sample](https://github.com/keremimo/melodee-sample) - 16-track groovebox that runs from the SD card in place of the stock app, with a plug-in host, sampling, stem separation, a song mode and a looper.
 - [MPC Plaits](https://github.com/keremimo/mpc-vst-plaits) - Plaits as a plug-in for Melodee, with all 24 models, up to eight voices and a modulation matrix. Also modded MPC Live, One, X, Key and Force.
+- [MiniMod](https://github.com/ioma8/mpc-minimod) - Small additions to the stock app, loaded from the SD card: AutoTrim, spectral chop, harmonic and percussive split, a live looper and MIDI keyboard playback in 16 Levels.
 
 ### MPC500
 
@@ -424,7 +425,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### Pocket AMP
 
 - [Onyx](https://github.com/keremimo/melodee-fx) - Guitar multi-effects firmware with eight reorderable slots, NAM amp captures, cabinet IRs, a tuner and a drum machine. Also the Donner Pocket AMP. No releases yet.
-- [Pendel](https://github.com/hugelton/Pendel) - Open-source replacement firmware with three effects slots, amp and cabinet models, a nine-second tape looper, metronome and tuner.
+- [Pendel](https://github.com/hugelton/Pendel) - Felucca's sibling: three effect slots, amp and cabinet models, a nine-second tape looper, a metronome and a tuner, with a browser installer.
 
 ### SMK-37
 
@@ -602,6 +603,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [underbridge](https://github.com/BKLronin/underbridge) - Export patterns as per-track audio.
 - [OP_Manager](https://github.com/adwuard/OP_Manager) - Raspberry Pi backup tool. Also OP-1.
 - [op-z-sysex](https://github.com/kmorrill/op-z-sysex) - SysEx, state sync and file transfer docs.
+- [opz-firmware-notes](https://github.com/ioma8/opz-firmware-notes) - Reverse-engineering notes on the encrypted firmware update format, the factory plug tables and a write path through the updater that needs no key.
 
 ### Pocket Operators
 
