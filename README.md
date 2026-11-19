@@ -424,6 +424,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 ### Pocket AMP
 
 - [Onyx](https://github.com/keremimo/melodee-fx) - Guitar multi-effects firmware with eight reorderable slots, NAM amp captures, cabinet IRs, a tuner and a drum machine. Also the Donner Pocket AMP. No releases yet.
+- [Pendel](https://github.com/hugelton/Pendel) - Open-source replacement firmware with three effects slots, amp and cabinet models, a nine-second tape looper, metronome and tuner.
 
 ### SMK-37
 
