@@ -6,7 +6,9 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 
 ### Added
 
-- [Pendel](https://github.com/hugelton/Pendel) - Open-source replacement firmware with three effects slots, amp and cabinet models, a nine-second tape looper, metronome and tuner. (M-VAVE > Pocket AMP)
+- [MiniMod](https://github.com/ioma8/mpc-minimod) - Small additions to the stock app, loaded from the SD card: AutoTrim, spectral chop, harmonic and percussive split, a live looper and MIDI keyboard playback in 16 Levels. (Akai > MPC Sample)
+- [Pendel](https://github.com/hugelton/Pendel) - Felucca's sibling: three effect slots, amp and cabinet models, a nine-second tape looper, a metronome and a tuner, with a browser installer. (M-VAVE > Pocket AMP)
+- [opz-firmware-notes](https://github.com/ioma8/opz-firmware-notes) - Reverse-engineering notes on the encrypted firmware update format, the factory plug tables and a write path through the updater that needs no key. (Teenage Engineering > OP-Z)
 
 ## 2026-11-18
 
