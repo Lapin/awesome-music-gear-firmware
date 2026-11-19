@@ -2,6 +2,12 @@
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
 
+## 2026-11-19
+
+### Added
+
+- [Pendel](https://github.com/hugelton/Pendel) - Open-source replacement firmware with three effects slots, amp and cabinet models, a nine-second tape looper, metronome and tuner. (M-VAVE > Pocket AMP)
+
 ## 2026-11-18
 
 ### Added
