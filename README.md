@@ -443,8 +443,9 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [AMB-1 for the SMK-37](https://github.com/genkigenki/fm1-amb/tree/smk37) - AMB-1 port: generative ambient, bells on the pads.
 - [Polly for the SMK-37](https://github.com/genkigenki/fm1-polly/tree/smk37) - Polly port: sections and progressions on the pads.
 - [winampFM for the SMK-37](https://github.com/genkigenki/winampFM/tree/smk37) - winampFM port: the loop on the pads in each track's colour.
-- [Mewcoder](https://github.com/MiloMeowzers/sloop-smk37/tree/mewcoder) - SLOOP with a 20-channel vocoder after the Sennheiser VSM201 and two routed USB audio inputs, released for the Elite.
-- [SLOOP SMK-37](https://github.com/MiloMeowzers/sloop-smk37) - SLOOP with six USB audio stems to the DAW and punch-in effects on every stem.
+- [Mewcoder](https://github.com/MiloMeowzers/mewcoder-smk37/tree/mewcoder) - SLOOP with a 20-channel vocoder after the Sennheiser VSM201, two routed USB audio inputs and a per-track beat repeat, released for the Elite.
+- [Mewcoder + Harmoniser](https://github.com/MiloMeowzers/mewcoder-smk37/tree/harmoniser) - Mewcoder with a three-voice harmoniser after the Eventide H949 and a harmony lane on each track, each on its own USB stem.
+- [SLOOP SMK-37](https://github.com/MiloMeowzers/mewcoder-smk37) - SLOOP with six USB audio stems to the DAW and punch-in effects on every stem.
 - [Big Beat Studio BB-37](https://github.com/TexasRADIO/smk37-elite-firmware) - Firmware with a 101-style synth, a 303-style synth, a synthesized 808 and pad-launched arrangements, with a browser installer.
 - [fm1-to-smk37](https://github.com/genkigenki/fm1-to-smk37) - Guide and tools to port FM-1 firmwares to the SMK-37, and back.
 
