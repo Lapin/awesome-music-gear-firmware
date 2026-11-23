@@ -7,7 +7,10 @@ Every entry added, removed, moved or reworded in the list, newest first. This fi
 ### Added
 
 - [h1](https://github.com/jakehandy/h1) - Sixteen instruments with animated screens, from lo-fi keys and FM to drum kits, with a loop recorder, step sequencer, arpeggiator, and USB audio and MIDI. (M-VAVE > FM-1)
+- [fm1-base](https://github.com/charlesvestal/fm1-base) - Framework and template for new firmwares, with Bluetooth MIDI, WiFi, USB audio, a host simulator and a browser emulator. Beta. (M-VAVE > FM-1)
+- [RemoteFM1](https://github.com/Quixotic7/RemoteFM1) - Turns the FM-1 into a panel for firmwares that run on a computer, phone or browser, so you can switch firmwares without reflashing. (M-VAVE > FM-1)
 - [fm1-browser-simulator](https://github.com/jakehandy/fm1-browser-simulator) - Run any FM-1 firmware built as an .rfm1 file in the browser, with the screen, sound, keys, encoders and lights. (M-VAVE > FM-1)
+- [FM1VST](https://github.com/Quixotic7/FM1VST) - Mac VST3, AU and standalone app that runs ChoralRoot, Felucca and Melodee from their own source, with the FM-1 panel as its editor. (M-VAVE > FM-1)
 - [Mewcoder + Harmoniser](https://github.com/MiloMeowzers/mewcoder-smk37/tree/harmoniser) - Mewcoder with a three-voice harmoniser after the Eventide H949 and a harmony lane on each track, each on its own USB stem. (M-VAVE > SMK-37)
 
 ### Changed
