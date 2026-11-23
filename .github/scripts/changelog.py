@@ -6,7 +6,12 @@ from pathlib import Path
 
 ENTRY = re.compile(r"^\s*- \[([^\]]+)\]\((https?://[^\s)]+)\)(.*)$")
 HEADING = re.compile(r"^(#{2,4}) (.+)$")
-SKIP_SECTIONS = {"Contents"}
+# Sections whose links are not list entries. Keep old names here if a section is renamed:
+# the whole history is replayed, and old versions of README.md still use them.
+SKIP_SECTIONS = {"Contents", "Latest additions"}
+LATEST_START = "<!-- latest-additions:start -->"
+LATEST_END = "<!-- latest-additions:end -->"
+CONTENTS_LINK = re.compile(r"^\s*- \[([^\]]+)\]\((#[^)]+)\)$")
 HEADER = """# Changelog
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
@@ -74,8 +79,47 @@ def snapshots():
     return list(days.items())
 
 
-def build():
-    days = snapshots()
+def latest_additions(days, readme):
+    """The additions of the latest day that had any, as in CHANGELOG.md, with the section each is in now."""
+    current = days[-1][1] if days else {}
+    anchors, in_contents = {}, False
+    for line in readme.splitlines():
+        if line.startswith("## "):
+            in_contents = line == "## Contents"
+            continue
+        link = CONTENTS_LINK.match(line) if in_contents else None
+        if link:
+            anchors[link.group(1)] = link.group(2)
+    for (_, old), (day, new) in reversed(list(zip(days, days[1:]))):
+        relinked = {name_of(entry) for key, entry in old.items() if key not in new}
+        lines = []
+        for key, entry in new.items():
+            if key in old or key not in current or name_of(entry) in relinked:
+                continue
+            entry = current[key]
+            section = entry["section"]
+            anchor = anchors.get(section.split(" > ")[-1])
+            place = f"[{section.replace(' > ', ' › ')}]({anchor})" if anchor else section
+            url = ENTRY.match("- " + entry["line"]).group(2)
+            lines.append(f"- [{name_of(entry)}]({url}) - {place}")
+        if lines:
+            return [f"Added on {day}:", ""] + lines
+    return []
+
+
+def update_readme(days):
+    path = Path("README.md")
+    readme = path.read_text()
+    if LATEST_START not in readme or LATEST_END not in readme:
+        return
+    head, rest = readme.split(LATEST_START, 1)
+    _, tail = rest.split(LATEST_END, 1)
+    block = "\n".join(latest_additions(days, readme))
+    footer = "Every change, by date, is in [CHANGELOG.md](CHANGELOG.md)."
+    path.write_text(f"{head}{LATEST_START}\n{block}\n\n{footer}\n{LATEST_END}{tail}")
+
+
+def build(days):
     output = [HEADER]
     for (_, old), (day, new) in reversed(list(zip(days, days[1:]))):
         changes = compare(old, new)
@@ -93,4 +137,6 @@ def build():
 
 
 if __name__ == "__main__":
-    Path("CHANGELOG.md").write_text(build())
+    days = snapshots()
+    Path("CHANGELOG.md").write_text(build(days))
+    update_readme(days)

@@ -2,6 +2,21 @@
 
 A curated list of custom firmware for music gear, plus software mods, tools and research. For physical mods and add-ons, see [Awesome Music Gear Mods](https://github.com/Lapin/awesome-music-gear-mods).
 
+## Latest additions
+
+<!-- latest-additions:start -->
+Added on 2026-11-23:
+
+- [h1](https://github.com/jakehandy/h1) - [M-VAVE › FM-1](#fm-1)
+- [fm1-base](https://github.com/charlesvestal/fm1-base) - [M-VAVE › FM-1](#fm-1)
+- [RemoteFM1](https://github.com/Quixotic7/RemoteFM1) - [M-VAVE › FM-1](#fm-1)
+- [fm1-browser-simulator](https://github.com/jakehandy/fm1-browser-simulator) - [M-VAVE › FM-1](#fm-1)
+- [FM1VST](https://github.com/Quixotic7/FM1VST) - [M-VAVE › FM-1](#fm-1)
+- [Mewcoder + Harmoniser](https://github.com/MiloMeowzers/mewcoder-smk37/tree/harmoniser) - [M-VAVE › SMK-37](#smk-37)
+
+Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
+<!-- latest-additions:end -->
+
 ## Contents
 
 - [Ableton](#ableton)

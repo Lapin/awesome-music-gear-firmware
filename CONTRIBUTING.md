@@ -13,6 +13,7 @@ Pull requests that add, fix or remove entries are welcome.
 - Within a section, the order is: frameworks and full firmware, then mods, tools, emulators and research. Add your entry at the end of its group.
 - Keep the description to one line. Say what it does, not how good it is.
 - Add a new brand or device heading when needed, in alphabetical order, and add it to Contents.
+- Don't edit Latest additions or `CHANGELOG.md`: both are generated from the list after each merge.
 
 ## Rules
 
