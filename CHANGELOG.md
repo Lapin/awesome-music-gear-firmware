@@ -2,6 +2,18 @@
 
 Every entry added, removed, moved or reworded in the list, newest first. This file is generated from the history of `README.md`, so don't edit it by hand.
 
+## 2026-11-23
+
+### Added
+
+- [h1](https://github.com/jakehandy/h1) - Sixteen instruments with animated screens, from lo-fi keys and FM to drum kits, with a loop recorder, step sequencer, arpeggiator, and USB audio and MIDI. (M-VAVE > FM-1)
+- [Mewcoder + Harmoniser](https://github.com/MiloMeowzers/mewcoder-smk37/tree/harmoniser) - Mewcoder with a three-voice harmoniser after the Eventide H949 and a harmony lane on each track, each on its own USB stem. (M-VAVE > SMK-37)
+
+### Changed
+
+- [Mewcoder](https://github.com/MiloMeowzers/mewcoder-smk37/tree/mewcoder) - SLOOP with a 20-channel vocoder after the Sennheiser VSM201, two routed USB audio inputs and a per-track beat repeat, released for the Elite. (M-VAVE > SMK-37, link updated)
+- [SLOOP SMK-37](https://github.com/MiloMeowzers/mewcoder-smk37) - SLOOP with six USB audio stems to the DAW and punch-in effects on every stem. (M-VAVE > SMK-37, link updated)
+
 ## 2026-11-19
 
 ### Added
