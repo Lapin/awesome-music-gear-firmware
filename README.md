@@ -420,9 +420,12 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [Melodee](https://github.com/keremimo/melodee) - Felucca-based synth and sequencer: four synth parts, four MIDI tracks and 64-section songs, with Bluetooth MIDI and a browser installer.
 - [Saadet](https://github.com/keremimo/saadet) - Two-part synth with six engines, from Prophet and FM6 to CZ-1, JUNO-106 and PPG, with Bluetooth MIDI and a browser editor. Also SMK-37, in beta.
 - [h1](https://github.com/jakehandy/h1) - Sixteen instruments with animated screens, from lo-fi keys and FM to drum kits, with a loop recorder, step sequencer, arpeggiator, and USB audio and MIDI.
+- [fm1-base](https://github.com/charlesvestal/fm1-base) - Framework and template for new firmwares, with Bluetooth MIDI, WiFi, USB audio, a host simulator and a browser emulator. Beta.
+- [RemoteFM1](https://github.com/Quixotic7/RemoteFM1) - Turns the FM-1 into a panel for firmwares that run on a computer, phone or browser, so you can switch firmwares without reflashing.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
 - [fm1-browser-simulator](https://github.com/jakehandy/fm1-browser-simulator) - Run any FM-1 firmware built as an .rfm1 file in the browser, with the screen, sound, keys, encoders and lights.
+- [FM1VST](https://github.com/Quixotic7/FM1VST) - Mac VST3, AU and standalone app that runs ChoralRoot, Felucca and Melodee from their own source, with the FM-1 panel as its editor.
 
 ### Pocket AMP
 
