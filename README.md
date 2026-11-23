@@ -4,82 +4,136 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ## Contents
 
-- [Ableton](#ableton)
-  - [Move](#move)
-  - [Push 2 and Push 3 Controller](#push-2-and-push-3-controller)
-  - [Push 3 Standalone](#push-3-standalone)
-- [Akai](#akai)
-  - [MPC Live, One, X, Key and Force](#mpc-live-one-x-key-and-force)
-  - [MPC Sample](#mpc-sample)
-  - [MPC500](#mpc500)
-  - [MPC1000 and MPC2500](#mpc1000-and-mpc2500)
-  - [MPC2000 and MPC2000XL](#mpc2000-and-mpc2000xl)
-  - [MPC3000](#mpc3000)
-- [Arturia](#arturia)
-  - [BeatStep and BeatStep Pro](#beatstep-and-beatstep-pro)
-  - [KeyStep and KeyStep Pro](#keystep-and-keystep-pro)
-  - [MicroBrute and MiniBrute](#microbrute-and-minibrute)
-  - [MicroFreak and MiniFreak](#microfreak-and-minifreak)
+<details><summary><a href="#ableton">Ableton</a></summary>
+
+- [Move](#move)
+- [Push 2 and Push 3 Controller](#push-2-and-push-3-controller)
+- [Push 3 Standalone](#push-3-standalone)
+
+</details>
+
+<details><summary><a href="#akai">Akai</a></summary>
+
+- [MPC Live, One, X, Key and Force](#mpc-live-one-x-key-and-force)
+- [MPC Sample](#mpc-sample)
+- [MPC500](#mpc500)
+- [MPC1000 and MPC2500](#mpc1000-and-mpc2500)
+- [MPC2000 and MPC2000XL](#mpc2000-and-mpc2000xl)
+- [MPC3000](#mpc3000)
+
+</details>
+
+<details><summary><a href="#arturia">Arturia</a></summary>
+
+- [BeatStep and BeatStep Pro](#beatstep-and-beatstep-pro)
+- [KeyStep and KeyStep Pro](#keystep-and-keystep-pro)
+- [MicroBrute and MiniBrute](#microbrute-and-minibrute)
+- [MicroFreak and MiniFreak](#microfreak-and-minifreak)
+
+</details>
+
 - [Behringer](#behringer)
 - [Casio](#casio)
 - [Critter & Guitari](#critter--guitari)
 - [Dirtywave](#dirtywave)
-- [Elektron](#elektron)
-  - [Analog Rytm](#analog-rytm)
-  - [Digitakt](#digitakt)
-  - [Digitakt II](#digitakt-ii)
-  - [Digitone](#digitone)
-  - [Digitone II](#digitone-ii)
-  - [Machinedrum](#machinedrum)
-  - [Model:Cycles](#modelcycles)
-  - [Monomachine](#monomachine)
-  - [Octatrack](#octatrack)
-  - [Syntakt](#syntakt)
-- [Erica Synths](#erica-synths)
-  - [LXR-02](#lxr-02)
+
+<details><summary><a href="#elektron">Elektron</a></summary>
+
+- [Analog Rytm](#analog-rytm)
+- [Digitakt](#digitakt)
+- [Digitakt II](#digitakt-ii)
+- [Digitone](#digitone)
+- [Digitone II](#digitone-ii)
+- [Machinedrum](#machinedrum)
+- [Model:Cycles](#modelcycles)
+- [Monomachine](#monomachine)
+- [Octatrack](#octatrack)
+- [Syntakt](#syntakt)
+
+</details>
+
+<details><summary><a href="#erica-synths">Erica Synths</a></summary>
+
+- [LXR-02](#lxr-02)
+
+</details>
+
 - [Intellijel](#intellijel)
-- [Korg](#korg)
-  - [logue SDK devices](#logue-sdk-devices)
-  - [Prophecy](#prophecy)
-  - [SQ-64](#sq-64)
-  - [Volca](#volca)
-- [M-VAVE](#m-vave)
-  - [FM-1](#fm-1)
-  - [Pocket AMP](#pocket-amp)
-  - [SMK-37](#smk-37)
+
+<details><summary><a href="#korg">Korg</a></summary>
+
+- [logue SDK devices](#logue-sdk-devices)
+- [Prophecy](#prophecy)
+- [SQ-64](#sq-64)
+- [Volca](#volca)
+
+</details>
+
+<details><summary><a href="#m-vave">M-VAVE</a></summary>
+
+- [FM-1](#fm-1)
+- [Pocket AMP](#pocket-amp)
+- [SMK-37](#smk-37)
+
+</details>
+
 - [Making Sound Machines](#making-sound-machines)
 - [Modal Electronics](#modal-electronics)
 - [Moog](#moog)
 - [Mutable Instruments](#mutable-instruments)
-- [Novation](#novation)
-  - [Circuit](#circuit)
-  - [Circuit Tracks](#circuit-tracks)
-  - [Launchpad](#launchpad)
+
+<details><summary><a href="#novation">Novation</a></summary>
+
+- [Circuit](#circuit)
+- [Circuit Tracks](#circuit-tracks)
+- [Launchpad](#launchpad)
+
+</details>
+
 - [Polyend](#polyend)
-- [Roland](#roland)
-  - [AIRA Compact](#aira-compact)
-  - [AIRA Modular](#aira-modular)
-  - [Boutique](#boutique)
-  - [MC-101 and MC-707](#mc-101-and-mc-707)
-  - [SP-404, SP-404SX and SP-404A](#sp-404-sp-404sx-and-sp-404a)
-  - [SP-404MKII](#sp-404mkii)
-  - [TR-8S](#tr-8s)
-- [Rossum Electro-Music](#rossum-electro-music)
-  - [SP-1200](#sp-1200)
+
+<details><summary><a href="#roland">Roland</a></summary>
+
+- [AIRA Compact](#aira-compact)
+- [AIRA Modular](#aira-modular)
+- [Boutique](#boutique)
+- [MC-101 and MC-707](#mc-101-and-mc-707)
+- [SP-404, SP-404SX and SP-404A](#sp-404-sp-404sx-and-sp-404a)
+- [SP-404MKII](#sp-404mkii)
+- [TR-8S](#tr-8s)
+
+</details>
+
+<details><summary><a href="#rossum-electro-music">Rossum Electro-Music</a></summary>
+
+- [SP-1200](#sp-1200)
+
+</details>
+
 - [Sequential](#sequential)
 - [Synthstrom](#synthstrom)
-- [Teenage Engineering](#teenage-engineering)
-  - [EP-133 K.O. II](#ep-133-ko-ii)
-  - [OP-1 and OP-1 Field](#op-1-and-op-1-field)
-  - [OP-XY](#op-xy)
-  - [OP-Z](#op-z)
-  - [Pocket Operators](#pocket-operators)
-  - [SP-1 Stem Player](#sp-1-stem-player)
+
+<details><summary><a href="#teenage-engineering">Teenage Engineering</a></summary>
+
+- [EP-133 K.O. II](#ep-133-ko-ii)
+- [OP-1 and OP-1 Field](#op-1-and-op-1-field)
+- [OP-XY](#op-xy)
+- [OP-Z](#op-z)
+- [Pocket Operators](#pocket-operators)
+- [SP-1 Stem Player](#sp-1-stem-player)
+
+</details>
+
 - [Torso](#torso)
 - [Yamaha](#yamaha)
-- [Zoom](#zoom)
-  - [LiveTrak L6](#livetrak-l6)
-  - [MultiStomp](#multistomp)
+
+<details><summary><a href="#zoom">Zoom</a></summary>
+
+- [LiveTrak L6](#livetrak-l6)
+- [MultiStomp](#multistomp)
+
+</details>
+
 - [1010music](#1010music)
 - [Communities](#communities)
 - [Related lists](#related-lists)
