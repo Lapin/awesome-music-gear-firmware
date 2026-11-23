@@ -422,6 +422,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 - [h1](https://github.com/jakehandy/h1) - Sixteen instruments with animated screens, from lo-fi keys and FM to drum kits, with a loop recorder, step sequencer, arpeggiator, and USB audio and MIDI.
 - [fm1-firmware-patcher](https://github.com/czietz/fm1-firmware-patcher) - Patch the stock firmware.
 - [fm1-custom-fw](https://github.com/aroum/fm1-custom-fw) - SysEx docs and a flasher.
+- [fm1-browser-simulator](https://github.com/jakehandy/fm1-browser-simulator) - Run any FM-1 firmware built as an .rfm1 file in the browser, with the screen, sound, keys, encoders and lights.
 
 ### Pocket AMP
 
