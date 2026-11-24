@@ -205,6 +205,7 @@ Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
 ### BeatStep and BeatStep Pro
 
 - [beatstep-cli](https://github.com/konsumer/beatstep-cli) - Control the BeatStep over SysEx.
+- [bstp_firmware_explore](https://github.com/angellinares/bstp_firmware_explore) - A repository to explore the bstp firmware.
 - [beatstep-pro-handler](https://github.com/jamisonx-dev/beatstep-pro-handler) - Read and write every BeatStep Pro setting over SysEx.
 - [beatstep-analysis](https://github.com/konsumer/beatstep-analysis) - Early work toward custom BeatStep firmware.
 
