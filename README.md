@@ -527,6 +527,7 @@ Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
 - [tracker-lib](https://github.com/polyend/tracker-lib) - Official library for Tracker project and instrument files.
 - [pti-tools](https://github.com/jaap3/pti-tools) - Build sliced Tracker instruments from samples.
 - [polyend-tracker-re](https://github.com/sandlbn/polyend-tracker-re) - Reverse engineering, documentation, and experimental firmware development for the original Polyend Tracker.
+- [RETracker](https://github.com/patois/RETracker) - Reverse engineering framework that patches the Tracker firmware.
 
 ### Polyend Tracker +
 - [Modular-Trackular](https://github.com/FatRodzianko/Modular-Trackular) - Firmware mods for Tracker+.
