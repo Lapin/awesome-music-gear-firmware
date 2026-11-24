@@ -521,6 +521,7 @@ Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
 - [tracker-ce](https://github.com/polyend/tracker-ce) - Official open source Community Edition firmware for all Tracker models.
 - [opentracker-fw](https://opentracker-fw.github.io/) (external) - Custom firmware featuring 17 synth engines that load dynamically from the SD card.
 - [o3-303](https://github.com/trak3r-os/o3-303) - Alternate firmware with a 303-style synth voice, pad step sequencer, and performance screen.
+- [polyend-tracker-doom](https://github.com/sandlbn/polyend-tracker-doom) - Doom port for the Polyend Tracker.
 - [opentracker-synths](https://github.com/opentracker-fw/opentracker-synths) - Synth engine modules for OpenTracker 3.
 - [opentracker-fx](https://github.com/opentracker-fw/opentracker-fx) - Effect modules for OpenTracker 3.
 - [tracker-lib](https://github.com/polyend/tracker-lib) - Official library for Tracker project and instrument files.
