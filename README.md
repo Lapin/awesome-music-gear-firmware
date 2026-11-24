@@ -517,20 +517,20 @@ Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
 ### Polyend Tracker
 
 - [tracker-ce](https://github.com/polyend/tracker-ce) - Official open source Community Edition firmware for all Tracker models.
-- [polyend-tracker-re](https://github.com/sandlbn/polyend-tracker-re) - Reverse engineering, documentation, and experimental firmware development for the original Polyend Tracker.
-- [opentracker-fw](https://opentracker-fw.github.io/) - Seventeen synth engines on one image. Five are built in. Twelve more load from the SD card when a song uses them, so you pick any synth on any slot and the firmware finds the room.
+- [opentracker-fw](https://opentracker-fw.github.io/) (external) - Seventeen synth engines on one image. Five are built in. Twelve more load from the SD card when a song uses them, so you pick any synth on any slot and the firmware finds the room.
+- [o3-303](https://github.com/trak3r-os/o3-303) - Turn the Tracker into an acid bass machine: a 303-style voice, a step sequencer you play on the 48 pads, and a performance screen.
 - [opentracker-synths](https://github.com/opentracker-fw/opentracker-synths) - Synth engine modules for OpenTracker 3.
 - [opentracker-fx](https://github.com/opentracker-fw/opentracker-fx) - Effect modules for OpenTracker 3.
-- [RETracker](https://github.com/patois/RETracker) - Reverse engineering framework that patches the Tracker firmware.
-- [o3-303](https://github.com/trak3r-os/o3-303) - Turn the Tracker into an acid bass machine: a 303-style voice, a step sequencer you play on the 48 pads, and a performance screen.
 - [tracker-lib](https://github.com/polyend/tracker-lib) - Official library for Tracker project and instrument files.
 - [pti-tools](https://github.com/jaap3/pti-tools) - Build sliced Tracker instruments from samples.
 - [play-files](https://github.com/AlexCharlton/play-files) - Parse Polyend Play projects in Rust.
+- [polyend-tracker-re](https://github.com/sandlbn/polyend-tracker-re) - Reverse engineering, documentation, and experimental firmware development for the original Polyend Tracker.
+- [RETracker](https://github.com/patois/RETracker) - Reverse engineering framework that patches the Tracker firmware.
 - [polyend-tracker-re-semi](https://github.com/semierendonmez-commits/polyend-tracker-re-semi) - Reverse engineering, documentation, and experimental firmware development for the original Polyend Tracker.
 
 ### Polyend Tracker +
 - [Modular-Trackular](https://github.com/FatRodzianko/Modular-Trackular) - Firmware mods for Tracker+.
-- [psygoo](https://psygoo.github.io/TrackerPlus-CT-Web/) - Tracker+ Conditional Trigs + Slice Weighted Random.
+- [psygoo](https://psygoo.github.io/TrackerPlus-CT-Web/) (external) - Tracker+ Conditional Trigs + Slice Weighted Random.
 
 ## Roland
 
