@@ -415,6 +415,7 @@ Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
 - [Big Beat Studio BB1](https://github.com/TexasRADIO/bb1-firmware) - Felucca-based rhythm firmware with two drum layers, acid bass, echo, spring reverb and a song arranger.
 - [Big Beat Studio BB-BOB](https://thebigbeat.app/bb-bob/about/) (external) - Replacement FM-1 firmware with a Western swing tune generator and live controls for steel solos, fills and section changes.
 - [Compás](https://thebigbeat.app/compas/) (external) - FM-1 rhythm section for cumbia, salsa, merengue and bolero, with live section cues and TR-727 percussion.
+- [Telegram 101 by Big Beat Studio](https://github.com/TexasRADIO/telegram-101-fm1-firmware) - A 101-style lead, Dillo acid bass, synthesized 808 drums, Band arrangements and one-bar knob-motion recording for the FM-1. Build 857, with a [browser installer](https://thebigbeat.app/fm1/telegram-101/install/) and [player guide](https://thebigbeat.app/fm1/telegram-101/). GPL-3.0-only.
 - [Baud Girl FM-1+VA](https://baudgirl.com/work/FM-1+VA) (external) - Virtual analog engine with four knobs on every screen.
 - [Groove OS](https://www.groove-os.com/) (external) - Eight-track groovebox with effects on every track. Paid.
 - [X0X](https://github.com/charlesvestal/fm1-x0x) - 909, 808 and two 303s with a breakbeat generator and song mode.
