@@ -466,7 +466,7 @@ Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
 - [Mewcoder](https://github.com/MiloMeowzers/mewcoder-smk37/tree/mewcoder) - SLOOP with a 20-channel vocoder after the Sennheiser VSM201, two routed USB audio inputs and a per-track beat repeat, released for the Elite.
 - [Mewcoder + Harmoniser](https://github.com/MiloMeowzers/mewcoder-smk37/tree/harmoniser) - Mewcoder with a three-voice harmoniser after the Eventide H949 and a harmony lane on each track, each on its own USB stem.
 - [SLOOP SMK-37](https://github.com/MiloMeowzers/mewcoder-smk37) - SLOOP with six USB audio stems to the DAW and punch-in effects on every stem.
-- [Big Beat Studio BB-37](https://github.com/TexasRADIO/smk37-elite-firmware) - Firmware with a 101-style synth, a 303-style synth, a synthesized 808 and pad-launched arrangements, with a browser installer.
+- [BB-37 Telegram 101 by Big Beat Studio](https://github.com/TexasRADIO/smk37-elite-firmware) - A 101-style lead, Dillo acid bass, synthesized 808 drums, Band arrangements and one-bar knob-motion recording for SMK-37 Elite, Pro and MKE-P37. Build 851; Elite also includes 727 and LATIN percussion. The [browser installer](https://thebigbeat.app/elite/telegram-101/install/) selects the matching model package. GPL-3.0-only.
 - [fm1-to-smk37](https://github.com/genkigenki/fm1-to-smk37) - Guide and tools to port FM-1 firmwares to the SMK-37, and back.
 
 ## Making Sound Machines
