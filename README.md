@@ -519,17 +519,22 @@ Every change, by date, is in [CHANGELOG.md](CHANGELOG.md).
 ### Polyend Tracker
 
 - [tracker-ce](https://github.com/polyend/tracker-ce) - Official open source Community Edition firmware for all Tracker models.
+- [retrack-tracker](https://github.com/math0ne/retrack-tracker) - From-scratch 4-track looper firmware for the original Polyend Tracker.
+- [track3r-os](https://github.com/trak3r-os/track3r-os) - Unofficial community firmware for the Polyend Tracker.
 - [opentracker-fw](https://opentracker-fw.github.io/) (external) - Custom firmware featuring 17 synth engines that load dynamically from the SD card.
 - [o3-303](https://github.com/trak3r-os/o3-303) - Alternate firmware with a 303-style synth voice, pad step sequencer, and performance screen.
 - [polyend-tracker-doom](https://github.com/sandlbn/polyend-tracker-doom) - Doom port for the Polyend Tracker.
+- [tracker-ff](https://github.com/sbialy/tracker-ff) - Unofficial community firmware for the original Polyend Tracker.
 - [opentracker-synths](https://github.com/opentracker-fw/opentracker-synths) - Synth engine modules for OpenTracker 3.
 - [opentracker-fx](https://github.com/opentracker-fw/opentracker-fx) - Effect modules for OpenTracker 3.
 - [tracker-lib](https://github.com/polyend/tracker-lib) - Official library for Tracker project and instrument files.
 - [pti-tools](https://github.com/jaap3/pti-tools) - Build sliced Tracker instruments from samples.
+- [tracker-ce-mods](https://github.com/simoianni/tracker-ce-mods) - Mods for the Polyend Tracker built on Community Edition firmware.
 - [polyend-tracker-re](https://github.com/sandlbn/polyend-tracker-re) - Reverse engineering, documentation, and experimental firmware development for the original Polyend Tracker.
 - [RETracker](https://github.com/patois/RETracker) - Reverse engineering framework that patches the Tracker firmware.
 
 ### Polyend Tracker +
+- [tracker-ce](https://github.com/P-N-E-M/tracker-ce) - Unofficial firmware for the Polyend Tracker+, built on Polyend's Tracker Community Edition.
 - [Modular-Trackular](https://github.com/FatRodzianko/Modular-Trackular) - Firmware mods for Tracker+.
 - [psygoo](https://psygoo.github.io/TrackerPlus-CT-Web/) (external) - Tracker+ Conditional Trigs + Slice Weighted Random.
 
